@@ -81,41 +81,39 @@ public class ResumenISWC2019 {
         };
     }
 
-
     public Map<String, Set<String>> getData() {
         Map<String, Set<String>> data = new TreeMap<>();
         String prefixes = String.join("\n",
-                "PREFIX conference: <"+ CON_NS+">",
-                "PREFIX purl: <"+ PURL_NS+">",
-                "PREFIX rdfs: <"+ RDFS_NS+">",
-                "PREFIX dbo: <"+ DBO_NS+">",
-                "PREFIX dbp: <"+ DBP_NS+">");
-
-        String queryStr = prefixes + "\n" +
-                "SELECT ?pais ?articulo ?iriarticulo ?track " +
-                "WHERE {\n" +
-                " ?tr a conference:Track ;\n" +
-                " conference:hasSubEvent ?event ;\n" +
-                " rdfs:label ?track .\n" +
-                " ?event a conference:Talk ;\n" +
-                " conference:isEventRelatedTo ?iriarticulo .\n" +
-                " ?iriarticulo rdfs:label ?articulo ;\n" +
-                " purl:creator/conference:hasAffiliation/"+
-                "conference:withOrganization/dbo:country/dbp:country/dbp:name ?pais .\n" +
-                " FILTER (?track IN (\"Research\", \"In-Use\", \"Resource\"))\n" +
+                "PREFIX conference: <" + CON_NS + ">",
+                "PREFIX purl:       <" + PURL_NS + ">",
+                "PREFIX rdfs:       <" + RDFS_NS + ">",
+                "PREFIX dbo:        <" + DBO_NS + ">",
+                "PREFIX dbp:        <" + DBP_NS + ">"
+        );
+        String queryString = prefixes + "\n" +
+                "SELECT DISTINCT ?pais ?articulo ?iriarticulo ?track WHERE {\n" +
+                "  ?t a conference:Track ;\n" +
+                "     conference:hasSubEvent ?e ;\n" +
+                "     rdfs:label ?track .\n" +
+                "  ?e a conference:Talk ;\n" +
+                "     conference:isEventRelatedTo ?iriarticulo .\n" +
+                "  ?iriarticulo rdfs:label ?articulo ;\n" +
+                "              purl:creator/conference:hasAffiliation/\n" +
+                "              conference:withOrganisation/dbo:country/dbp:name ?pais .\n" +
+                "  FILTER(?track IN (\"Research\", \"In-Use\", \"Resource\"))\n" +
                 "}";
 
-        Query query = QueryFactory.create(queryStr);
 
+        Query query = QueryFactory.create(queryString);
         try (QueryExecution qexec = QueryExecutionFactory.create(query, model)) {
             ResultSet rs = qexec.execSelect();
             while (rs.hasNext()) {
                 QuerySolution sol = rs.next();
                 String country = sol.getLiteral("pais").getString();
-                String title = sol.getLiteral("articulo").getString();
-                String track = sol.getLiteral("track").getString();
+                String title   = sol.getLiteral("articulo").getString();
+                String track   = sol.getLiteral("track").getString();
                 Resource artRes = sol.getResource("iriarticulo");
-                String entry = mapTrack(track) + " \"" + title + "\" por" + getAuthorList(artRes);
+                String entry   = mapTrack(track) + " \"" + title + "\" por " + getAuthorList(artRes);
                 data.computeIfAbsent(country, k -> new TreeSet<>()).add(entry);
             }
         }
