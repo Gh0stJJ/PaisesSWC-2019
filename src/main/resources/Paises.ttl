@@ -1,0 +1,573 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dbp: <http://dbpedia.org/property/> .
+
+<http://dbpedia.org/resource/Arab_League> a dbo:Country. <http://dbpedia.org/resource/Arab_League> dbp:name "Arab League".
+<http://dbpedia.org/resource/Central_Tibetan_Administration> a dbo:Country. <http://dbpedia.org/resource/Central_Tibetan_Administration> dbp:name "Central Tibetan Administration".
+<http://dbpedia.org/resource/Non-Aligned_Movement> a dbo:Country. <http://dbpedia.org/resource/Non-Aligned_Movement> dbp:name "Non-Aligned Movement".
+<http://dbpedia.org/resource/Nordic_Council> a dbo:Country. <http://dbpedia.org/resource/Nordic_Council> dbp:name "Nordic Council".
+<http://dbpedia.org/resource/Organisation_of_Islamic_Cooperation> a dbo:Country. <http://dbpedia.org/resource/Organisation_of_Islamic_Cooperation> dbp:name "Organisation of Islamic Cooperation".
+<http://dbpedia.org/resource/Syldavia> a dbo:Country. <http://dbpedia.org/resource/Syldavia> dbp:name "Syldavia".
+<http://dbpedia.org/resource/United_Nations> a dbo:Country. <http://dbpedia.org/resource/United_Nations> dbp:name "United Nations".
+<http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo> a dbo:Country. <http://dbpedia.org/resource/United_Nations_Interim_Administration_Mission_in_Kosovo> dbp:name "United Nations Interim Administration Mission in Kosovo".
+<http://dbpedia.org/resource/United_States_Minor_Outlying_Islands> a dbo:Country. <http://dbpedia.org/resource/United_States_Minor_Outlying_Islands> dbp:name "United States Minor Outlying Islands".
+<http://dbpedia.org/resource/Transnistria_autonomous_territorial_unit_with_special_legal_status> a dbo:Country. <http://dbpedia.org/resource/Transnistria_autonomous_territorial_unit_with_special_legal_status> dbp:name "Transnistria autonomous territorial unit with special legal status".
+<http://dbpedia.org/resource/Syria> a dbo:Country. <http://dbpedia.org/resource/Syria> dbp:name "Syria".
+<http://dbpedia.org/resource/Adriatic_Ionian_Euroregion> a dbo:Country. <http://dbpedia.org/resource/Adriatic_Ionian_Euroregion> dbp:name "Adriatic Ionian Euroregion".
+<http://dbpedia.org/resource/Grand_Duchy_of_Westarctica> a dbo:Country. <http://dbpedia.org/resource/Grand_Duchy_of_Westarctica> dbp:name "Grand Duchy of Westarctica".
+<http://dbpedia.org/resource/Kwikwetlem_First_Nation> a dbo:Country. <http://dbpedia.org/resource/Kwikwetlem_First_Nation> dbp:name "Kwikwetlem First Nation".
+<http://dbpedia.org/resource/Seneca_Nation_of_Indians> a dbo:Country. <http://dbpedia.org/resource/Seneca_Nation_of_Indians> dbp:name "Seneca Nation of Indians".
+<http://dbpedia.org/resource/Wirtland_(micronation)> a dbo:Country. <http://dbpedia.org/resource/Wirtland_(micronation)> dbp:name "Wirtland (micronation)".
+<http://dbpedia.org/resource/Holy_Empire_of_Reunion> a dbo:Country. <http://dbpedia.org/resource/Holy_Empire_of_Reunion> dbp:name "Holy Empire of Reunion".
+<http://dbpedia.org/resource/Kingdom_of_Wallachia> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Wallachia> dbp:name "Kingdom of Wallachia".
+<http://dbpedia.org/resource/Zhedna> a dbo:Country. <http://dbpedia.org/resource/Zhedna> dbp:name "Zhedna".
+<http://dbpedia.org/resource/Luhansk_People's_Republic> a dbo:Country. <http://dbpedia.org/resource/Luhansk_People's_Republic> dbp:name "Luhansk People's Republic".
+<http://dbpedia.org/resource/Republic_of_Vevčani> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Vevčani> dbp:name "Republic of Vevčani".
+<http://dbpedia.org/resource/Government_of_the_Autonomous_Republic_of_Abkhazia> a dbo:Country. <http://dbpedia.org/resource/Government_of_the_Autonomous_Republic_of_Abkhazia> dbp:name "Government of the Autonomous Republic of Abkhazia".
+<http://dbpedia.org/resource/Republic_of_Molossia> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Molossia> dbp:name "Republic of Molossia".
+<http://dbpedia.org/resource/Tanukhids> a dbo:Country. <http://dbpedia.org/resource/Tanukhids> dbp:name "Tanukhids".
+<http://dbpedia.org/resource/Bureau_of_Ghana_Languages> a dbo:Country. <http://dbpedia.org/resource/Bureau_of_Ghana_Languages> dbp:name "Bureau of Ghana Languages".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins> dbp:name "Euro gold and silver commemorative coins".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Belgium)> dbp:name "Euro gold and silver commemorative coins (Belgium)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(France)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(France)> dbp:name "Euro gold and silver commemorative coins (France)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Ireland)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Ireland)> dbp:name "Euro gold and silver commemorative coins (Ireland)".
+<http://dbpedia.org/resource/Provisional_Administration_of_South_Ossetia> a dbo:Country. <http://dbpedia.org/resource/Provisional_Administration_of_South_Ossetia> dbp:name "Provisional Administration of South Ossetia".
+<http://dbpedia.org/resource/Save_Aramoana_Campaign> a dbo:Country. <http://dbpedia.org/resource/Save_Aramoana_Campaign> dbp:name "Save Aramoana Campaign".
+<http://dbpedia.org/resource/Lü_(state)> a dbo:Country. <http://dbpedia.org/resource/Lü_(state)> dbp:name "Lü (state)".
+<http://dbpedia.org/resource/United_Nations_Police> a dbo:Country. <http://dbpedia.org/resource/United_Nations_Police> dbp:name "United Nations Police".
+<http://dbpedia.org/resource/OECD_Development_Centre> a dbo:Country. <http://dbpedia.org/resource/OECD_Development_Centre> dbp:name "OECD Development Centre".
+<http://dbpedia.org/resource/Ascension_Island> a dbo:Country. <http://dbpedia.org/resource/Ascension_Island> dbp:name "Ascension Island".
+<http://dbpedia.org/resource/British_Indian_Ocean_Territory> a dbo:Country. <http://dbpedia.org/resource/British_Indian_Ocean_Territory> dbp:name "British Indian Ocean Territory".
+<http://dbpedia.org/resource/Climate_Vulnerable_Forum> a dbo:Country. <http://dbpedia.org/resource/Climate_Vulnerable_Forum> dbp:name "Climate Vulnerable Forum".
+<http://dbpedia.org/resource/Conference_on_Interaction_and_Confidence-Building_Measures_in_Asia> a dbo:Country. <http://dbpedia.org/resource/Conference_on_Interaction_and_Confidence-Building_Measures_in_Asia> dbp:name "Conference on Interaction and Confidence-Building Measures in Asia".
+<http://dbpedia.org/resource/Dominion_of_Melchizedek> a dbo:Country. <http://dbpedia.org/resource/Dominion_of_Melchizedek> dbp:name "Dominion of Melchizedek".
+<http://dbpedia.org/resource/Economic_Cooperation_Organization> a dbo:Country. <http://dbpedia.org/resource/Economic_Cooperation_Organization> dbp:name "Economic Cooperation Organization".
+<http://dbpedia.org/resource/Egypt> a dbo:Country. <http://dbpedia.org/resource/Egypt> dbp:name "Egypt".
+<http://dbpedia.org/resource/International_Naturist_Federation> a dbo:Country. <http://dbpedia.org/resource/International_Naturist_Federation> dbp:name "International Naturist Federation".
+<http://dbpedia.org/resource/Liberland> a dbo:Country. <http://dbpedia.org/resource/Liberland> dbp:name "Liberland".
+<http://dbpedia.org/resource/New_Zealand> a dbo:Country. <http://dbpedia.org/resource/New_Zealand> dbp:name "New Zealand".
+<http://dbpedia.org/resource/Northern_Region,_Nigeria> a dbo:Country. <http://dbpedia.org/resource/Northern_Region,_Nigeria> dbp:name "Northern Region, Nigeria".
+<http://dbpedia.org/resource/United_States> a dbo:Country. <http://dbpedia.org/resource/United_States> dbp:name "United States".
+<http://dbpedia.org/resource/Kugelmugel> a dbo:Country. <http://dbpedia.org/resource/Kugelmugel> dbp:name "Kugelmugel".
+<http://dbpedia.org/resource/Ladonia_(micronation)> a dbo:Country. <http://dbpedia.org/resource/Ladonia_(micronation)> dbp:name "Ladonia (micronation)".
+<http://dbpedia.org/resource/Minerva_Reefs> a dbo:Country. <http://dbpedia.org/resource/Minerva_Reefs> dbp:name "Minerva Reefs".
+<http://dbpedia.org/resource/Twente> a dbo:Country. <http://dbpedia.org/resource/Twente> dbp:name "Twente".
+<http://dbpedia.org/resource/Kingdom_of_Tavolara> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Tavolara> dbp:name "Kingdom of Tavolara".
+<http://dbpedia.org/resource/World_government> a dbo:Country. <http://dbpedia.org/resource/World_government> dbp:name "World government".
+<http://dbpedia.org/resource/Other_World_Kingdom> a dbo:Country. <http://dbpedia.org/resource/Other_World_Kingdom> dbp:name "Other World Kingdom".
+<http://dbpedia.org/resource/Amin_Mahmoud_(politician)> a dbo:Country. <http://dbpedia.org/resource/Amin_Mahmoud_(politician)> dbp:name "Amin Mahmoud (politician)".
+<http://dbpedia.org/resource/Zeila_&_Lughaya_State> a dbo:Country. <http://dbpedia.org/resource/Zeila_&_Lughaya_State> dbp:name "Zeila & Lughaya State".
+<http://dbpedia.org/resource/Republic_of_Saugeais> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Saugeais> dbp:name "Republic of Saugeais".
+<http://dbpedia.org/resource/African_Free_Trade_Zone> a dbo:Country. <http://dbpedia.org/resource/African_Free_Trade_Zone> dbp:name "African Free Trade Zone".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Greece)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Greece)> dbp:name "Euro gold and silver commemorative coins (Greece)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Monaco)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Monaco)> dbp:name "Euro gold and silver commemorative coins (Monaco)".
+<http://dbpedia.org/resource/Afghanistan> a dbo:Country. <http://dbpedia.org/resource/Afghanistan> dbp:name "Afghanistan".
+<http://dbpedia.org/resource/Albania> a dbo:Country. <http://dbpedia.org/resource/Albania> dbp:name "Albania".
+<http://dbpedia.org/resource/Algeria> a dbo:Country. <http://dbpedia.org/resource/Algeria> dbp:name "Algeria".
+<http://dbpedia.org/resource/Andorra> a dbo:Country. <http://dbpedia.org/resource/Andorra> dbp:name "Andorra".
+<http://dbpedia.org/resource/Angola> a dbo:Country. <http://dbpedia.org/resource/Angola> dbp:name "Angola".
+<http://dbpedia.org/resource/Anguilla> a dbo:Country. <http://dbpedia.org/resource/Anguilla> dbp:name "Anguilla".
+<http://dbpedia.org/resource/Antigua_and_Barbuda> a dbo:Country. <http://dbpedia.org/resource/Antigua_and_Barbuda> dbp:name "Antigua and Barbuda".
+<http://dbpedia.org/resource/Aruba> a dbo:Country. <http://dbpedia.org/resource/Aruba> dbp:name "Aruba".
+<http://dbpedia.org/resource/Azerbaijan> a dbo:Country. <http://dbpedia.org/resource/Azerbaijan> dbp:name "Azerbaijan".
+<http://dbpedia.org/resource/Bangladesh> a dbo:Country. <http://dbpedia.org/resource/Bangladesh> dbp:name "Bangladesh".
+<http://dbpedia.org/resource/Barbados> a dbo:Country. <http://dbpedia.org/resource/Barbados> dbp:name "Barbados".
+<http://dbpedia.org/resource/Bassas_da_India> a dbo:Country. <http://dbpedia.org/resource/Bassas_da_India> dbp:name "Bassas da India".
+<http://dbpedia.org/resource/Belarus> a dbo:Country. <http://dbpedia.org/resource/Belarus> dbp:name "Belarus".
+<http://dbpedia.org/resource/Belgium> a dbo:Country. <http://dbpedia.org/resource/Belgium> dbp:name "Belgium".
+<http://dbpedia.org/resource/Belize> a dbo:Country. <http://dbpedia.org/resource/Belize> dbp:name "Belize".
+<http://dbpedia.org/resource/Benin> a dbo:Country. <http://dbpedia.org/resource/Benin> dbp:name "Benin".
+<http://dbpedia.org/resource/Bermuda> a dbo:Country. <http://dbpedia.org/resource/Bermuda> dbp:name "Bermuda".
+<http://dbpedia.org/resource/Bolivia> a dbo:Country. <http://dbpedia.org/resource/Bolivia> dbp:name "Bolivia".
+<http://dbpedia.org/resource/Bosnia_and_Herzegovina> a dbo:Country. <http://dbpedia.org/resource/Bosnia_and_Herzegovina> dbp:name "Bosnia and Herzegovina".
+<http://dbpedia.org/resource/Brazil> a dbo:Country. <http://dbpedia.org/resource/Brazil> dbp:name "Brazil".
+<http://dbpedia.org/resource/British_Empire> a dbo:Country. <http://dbpedia.org/resource/British_Empire> dbp:name "British Empire".
+<http://dbpedia.org/resource/British_Virgin_Islands> a dbo:Country. <http://dbpedia.org/resource/British_Virgin_Islands> dbp:name "British Virgin Islands".
+<http://dbpedia.org/resource/Brunei> a dbo:Country. <http://dbpedia.org/resource/Brunei> dbp:name "Brunei".
+<http://dbpedia.org/resource/Bulgaria> a dbo:Country. <http://dbpedia.org/resource/Bulgaria> dbp:name "Bulgaria".
+<http://dbpedia.org/resource/Burkina_Faso> a dbo:Country. <http://dbpedia.org/resource/Burkina_Faso> dbp:name "Burkina Faso".
+<http://dbpedia.org/resource/Cameroon> a dbo:Country. <http://dbpedia.org/resource/Cameroon> dbp:name "Cameroon".
+<http://dbpedia.org/resource/Cayman_Islands> a dbo:Country. <http://dbpedia.org/resource/Cayman_Islands> dbp:name "Cayman Islands".
+<http://dbpedia.org/resource/Central_African_Republic> a dbo:Country. <http://dbpedia.org/resource/Central_African_Republic> dbp:name "Central African Republic".
+<http://dbpedia.org/resource/Chad> a dbo:Country. <http://dbpedia.org/resource/Chad> dbp:name "Chad".
+<http://dbpedia.org/resource/Chile> a dbo:Country. <http://dbpedia.org/resource/Chile> dbp:name "Chile".
+<http://dbpedia.org/resource/China> a dbo:Country. <http://dbpedia.org/resource/China> dbp:name "China".
+<http://dbpedia.org/resource/Christmas_Island> a dbo:Country. <http://dbpedia.org/resource/Christmas_Island> dbp:name "Christmas Island".
+<http://dbpedia.org/resource/Cocos_(Keeling)_Islands> a dbo:Country. <http://dbpedia.org/resource/Cocos_(Keeling)_Islands> dbp:name "Cocos (Keeling) Islands".
+<http://dbpedia.org/resource/Colombia> a dbo:Country. <http://dbpedia.org/resource/Colombia> dbp:name "Colombia".
+<http://dbpedia.org/resource/Comoros> a dbo:Country. <http://dbpedia.org/resource/Comoros> dbp:name "Comoros".
+<http://dbpedia.org/resource/Cook_Islands> a dbo:Country. <http://dbpedia.org/resource/Cook_Islands> dbp:name "Cook Islands".
+<http://dbpedia.org/resource/Costa_Rica> a dbo:Country. <http://dbpedia.org/resource/Costa_Rica> dbp:name "Costa Rica".
+<http://dbpedia.org/resource/Croatia> a dbo:Country. <http://dbpedia.org/resource/Croatia> dbp:name "Croatia".
+<http://dbpedia.org/resource/Cyprus> a dbo:Country. <http://dbpedia.org/resource/Cyprus> dbp:name "Cyprus".
+<http://dbpedia.org/resource/Czech_Republic> a dbo:Country. <http://dbpedia.org/resource/Czech_Republic> dbp:name "Czech Republic".
+<http://dbpedia.org/resource/Dominican_Republic> a dbo:Country. <http://dbpedia.org/resource/Dominican_Republic> dbp:name "Dominican Republic".
+<http://dbpedia.org/resource/Ecuador> a dbo:Country. <http://dbpedia.org/resource/Ecuador> dbp:name "Ecuador".
+<http://dbpedia.org/resource/El_Salvador> a dbo:Country. <http://dbpedia.org/resource/El_Salvador> dbp:name "El Salvador".
+<http://dbpedia.org/resource/Equatorial_Guinea> a dbo:Country. <http://dbpedia.org/resource/Equatorial_Guinea> dbp:name "Equatorial Guinea".
+<http://dbpedia.org/resource/Europa_Island> a dbo:Country. <http://dbpedia.org/resource/Europa_Island> dbp:name "Europa Island".
+<http://dbpedia.org/resource/European_Free_Trade_Association> a dbo:Country. <http://dbpedia.org/resource/European_Free_Trade_Association> dbp:name "European Free Trade Association".
+<http://dbpedia.org/resource/European_Union> a dbo:Country. <http://dbpedia.org/resource/European_Union> dbp:name "European Union".
+<http://dbpedia.org/resource/Federated_States_of_Micronesia> a dbo:Country. <http://dbpedia.org/resource/Federated_States_of_Micronesia> dbp:name "Federated States of Micronesia".
+<http://dbpedia.org/resource/Fiji> a dbo:Country. <http://dbpedia.org/resource/Fiji> dbp:name "Fiji".
+<http://dbpedia.org/resource/Finland> a dbo:Country. <http://dbpedia.org/resource/Finland> dbp:name "Finland".
+<http://dbpedia.org/resource/French_Polynesia> a dbo:Country. <http://dbpedia.org/resource/French_Polynesia> dbp:name "French Polynesia".
+<http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands> a dbo:Country. <http://dbpedia.org/resource/French_Southern_and_Antarctic_Lands> dbp:name "French Southern and Antarctic Lands".
+<http://dbpedia.org/resource/Gabon> a dbo:Country. <http://dbpedia.org/resource/Gabon> dbp:name "Gabon".
+<http://dbpedia.org/resource/Gaza_Strip> a dbo:Country. <http://dbpedia.org/resource/Gaza_Strip> dbp:name "Gaza Strip".
+<http://dbpedia.org/resource/Geography_of_Saint_Pierre_and_Miquelon> a dbo:Country. <http://dbpedia.org/resource/Geography_of_Saint_Pierre_and_Miquelon> dbp:name "Geography of Saint Pierre and Miquelon".
+<http://dbpedia.org/resource/Germany> a dbo:Country. <http://dbpedia.org/resource/Germany> dbp:name "Germany".
+<http://dbpedia.org/resource/Ghana> a dbo:Country. <http://dbpedia.org/resource/Ghana> dbp:name "Ghana".
+<http://dbpedia.org/resource/Glorioso_Islands> a dbo:Country. <http://dbpedia.org/resource/Glorioso_Islands> dbp:name "Glorioso Islands".
+<http://dbpedia.org/resource/Greece> a dbo:Country. <http://dbpedia.org/resource/Greece> dbp:name "Greece".
+<http://dbpedia.org/resource/Greenland> a dbo:Country. <http://dbpedia.org/resource/Greenland> dbp:name "Greenland".
+<http://dbpedia.org/resource/Guam> a dbo:Country. <http://dbpedia.org/resource/Guam> dbp:name "Guam".
+<http://dbpedia.org/resource/Guernsey> a dbo:Country. <http://dbpedia.org/resource/Guernsey> dbp:name "Guernsey".
+<http://dbpedia.org/resource/Guinea> a dbo:Country. <http://dbpedia.org/resource/Guinea> dbp:name "Guinea".
+<http://dbpedia.org/resource/Guinea-Bissau> a dbo:Country. <http://dbpedia.org/resource/Guinea-Bissau> dbp:name "Guinea-Bissau".
+<http://dbpedia.org/resource/Haiti> a dbo:Country. <http://dbpedia.org/resource/Haiti> dbp:name "Haiti".
+<http://dbpedia.org/resource/Hanseatic_League> a dbo:Country. <http://dbpedia.org/resource/Hanseatic_League> dbp:name "Hanseatic League".
+<http://dbpedia.org/resource/Holy_See> a dbo:Country. <http://dbpedia.org/resource/Holy_See> dbp:name "Holy See".
+<http://dbpedia.org/resource/Honduras> a dbo:Country. <http://dbpedia.org/resource/Honduras> dbp:name "Honduras".
+<http://dbpedia.org/resource/Hong_Kong> a dbo:Country. <http://dbpedia.org/resource/Hong_Kong> dbp:name "Hong Kong".
+<http://dbpedia.org/resource/Hungary> a dbo:Country. <http://dbpedia.org/resource/Hungary> dbp:name "Hungary".
+<http://dbpedia.org/resource/Iceland> a dbo:Country. <http://dbpedia.org/resource/Iceland> dbp:name "Iceland".
+<http://dbpedia.org/resource/India> a dbo:Country. <http://dbpedia.org/resource/India> dbp:name "India".
+<http://dbpedia.org/resource/Indonesia> a dbo:Country. <http://dbpedia.org/resource/Indonesia> dbp:name "Indonesia".
+<http://dbpedia.org/resource/International_Criminal_Court> a dbo:Country. <http://dbpedia.org/resource/International_Criminal_Court> dbp:name "International Criminal Court".
+<http://dbpedia.org/resource/Iran> a dbo:Country. <http://dbpedia.org/resource/Iran> dbp:name "Iran".
+<http://dbpedia.org/resource/Isle_of_Man> a dbo:Country. <http://dbpedia.org/resource/Isle_of_Man> dbp:name "Isle of Man".
+<http://dbpedia.org/resource/Italy> a dbo:Country. <http://dbpedia.org/resource/Italy> dbp:name "Italy".
+<http://dbpedia.org/resource/Jamaica> a dbo:Country. <http://dbpedia.org/resource/Jamaica> dbp:name "Jamaica".
+<http://dbpedia.org/resource/Japan> a dbo:Country. <http://dbpedia.org/resource/Japan> dbp:name "Japan".
+<http://dbpedia.org/resource/Jersey> a dbo:Country. <http://dbpedia.org/resource/Jersey> dbp:name "Jersey".
+<http://dbpedia.org/resource/Juan_de_Nova_Island> a dbo:Country. <http://dbpedia.org/resource/Juan_de_Nova_Island> dbp:name "Juan de Nova Island".
+<http://dbpedia.org/resource/Kazakhstan> a dbo:Country. <http://dbpedia.org/resource/Kazakhstan> dbp:name "Kazakhstan".
+<http://dbpedia.org/resource/Kerguelen_Islands> a dbo:Country. <http://dbpedia.org/resource/Kerguelen_Islands> dbp:name "Kerguelen Islands".
+<http://dbpedia.org/resource/Kiribati> a dbo:Country. <http://dbpedia.org/resource/Kiribati> dbp:name "Kiribati".
+<http://dbpedia.org/resource/Kosovo> a dbo:Country. <http://dbpedia.org/resource/Kosovo> dbp:name "Kosovo".
+<http://dbpedia.org/resource/Laos> a dbo:Country. <http://dbpedia.org/resource/Laos> dbp:name "Laos".
+<http://dbpedia.org/resource/Latvia> a dbo:Country. <http://dbpedia.org/resource/Latvia> dbp:name "Latvia".
+<http://dbpedia.org/resource/Lebanon> a dbo:Country. <http://dbpedia.org/resource/Lebanon> dbp:name "Lebanon".
+<http://dbpedia.org/resource/Lesotho> a dbo:Country. <http://dbpedia.org/resource/Lesotho> dbp:name "Lesotho".
+<http://dbpedia.org/resource/Liberia> a dbo:Country. <http://dbpedia.org/resource/Liberia> dbp:name "Liberia".
+<http://dbpedia.org/resource/Libya> a dbo:Country. <http://dbpedia.org/resource/Libya> dbp:name "Libya".
+<http://dbpedia.org/resource/Liechtenstein> a dbo:Country. <http://dbpedia.org/resource/Liechtenstein> dbp:name "Liechtenstein".
+<http://dbpedia.org/resource/Lithuania> a dbo:Country. <http://dbpedia.org/resource/Lithuania> dbp:name "Lithuania".
+<http://dbpedia.org/resource/Luxembourg> a dbo:Country. <http://dbpedia.org/resource/Luxembourg> dbp:name "Luxembourg".
+<http://dbpedia.org/resource/Macau> a dbo:Country. <http://dbpedia.org/resource/Macau> dbp:name "Macau".
+<http://dbpedia.org/resource/Macedonia_(region)> a dbo:Country. <http://dbpedia.org/resource/Macedonia_(region)> dbp:name "Macedonia (region)".
+<http://dbpedia.org/resource/Madagascar> a dbo:Country. <http://dbpedia.org/resource/Madagascar> dbp:name "Madagascar".
+<http://dbpedia.org/resource/Malawi> a dbo:Country. <http://dbpedia.org/resource/Malawi> dbp:name "Malawi".
+<http://dbpedia.org/resource/Maldives> a dbo:Country. <http://dbpedia.org/resource/Maldives> dbp:name "Maldives".
+<http://dbpedia.org/resource/Mali> a dbo:Country. <http://dbpedia.org/resource/Mali> dbp:name "Mali".
+<http://dbpedia.org/resource/Malta> a dbo:Country. <http://dbpedia.org/resource/Malta> dbp:name "Malta".
+<http://dbpedia.org/resource/Marshall_Islands> a dbo:Country. <http://dbpedia.org/resource/Marshall_Islands> dbp:name "Marshall Islands".
+<http://dbpedia.org/resource/Mauritius> a dbo:Country. <http://dbpedia.org/resource/Mauritius> dbp:name "Mauritius".
+<http://dbpedia.org/resource/Moldova> a dbo:Country. <http://dbpedia.org/resource/Moldova> dbp:name "Moldova".
+<http://dbpedia.org/resource/Monaco> a dbo:Country. <http://dbpedia.org/resource/Monaco> dbp:name "Monaco".
+<http://dbpedia.org/resource/Mongolia> a dbo:Country. <http://dbpedia.org/resource/Mongolia> dbp:name "Mongolia".
+<http://dbpedia.org/resource/Montenegro> a dbo:Country. <http://dbpedia.org/resource/Montenegro> dbp:name "Montenegro".
+<http://dbpedia.org/resource/Montserrat> a dbo:Country. <http://dbpedia.org/resource/Montserrat> dbp:name "Montserrat".
+<http://dbpedia.org/resource/Morocco> a dbo:Country. <http://dbpedia.org/resource/Morocco> dbp:name "Morocco".
+<http://dbpedia.org/resource/Mozambique> a dbo:Country. <http://dbpedia.org/resource/Mozambique> dbp:name "Mozambique".
+<http://dbpedia.org/resource/Myanmar> a dbo:Country. <http://dbpedia.org/resource/Myanmar> dbp:name "Myanmar".
+<http://dbpedia.org/resource/Namibia> a dbo:Country. <http://dbpedia.org/resource/Namibia> dbp:name "Namibia".
+<http://dbpedia.org/resource/Nauru> a dbo:Country. <http://dbpedia.org/resource/Nauru> dbp:name "Nauru".
+<http://dbpedia.org/resource/Netherlands> a dbo:Country. <http://dbpedia.org/resource/Netherlands> dbp:name "Netherlands".
+<http://dbpedia.org/resource/Nevis> a dbo:Country. <http://dbpedia.org/resource/Nevis> dbp:name "Nevis".
+<http://dbpedia.org/resource/New_Caledonia> a dbo:Country. <http://dbpedia.org/resource/New_Caledonia> dbp:name "New Caledonia".
+<http://dbpedia.org/resource/Nicaragua> a dbo:Country. <http://dbpedia.org/resource/Nicaragua> dbp:name "Nicaragua".
+<http://dbpedia.org/resource/Niger> a dbo:Country. <http://dbpedia.org/resource/Niger> dbp:name "Niger".
+<http://dbpedia.org/resource/Nigeria> a dbo:Country. <http://dbpedia.org/resource/Nigeria> dbp:name "Nigeria".
+<http://dbpedia.org/resource/Niue> a dbo:Country. <http://dbpedia.org/resource/Niue> dbp:name "Niue".
+<http://dbpedia.org/resource/Norfolk_Island> a dbo:Country. <http://dbpedia.org/resource/Norfolk_Island> dbp:name "Norfolk Island".
+<http://dbpedia.org/resource/North_Korea> a dbo:Country. <http://dbpedia.org/resource/North_Korea> dbp:name "North Korea".
+<http://dbpedia.org/resource/Northern_Mariana_Islands> a dbo:Country. <http://dbpedia.org/resource/Northern_Mariana_Islands> dbp:name "Northern Mariana Islands".
+<http://dbpedia.org/resource/Norway> a dbo:Country. <http://dbpedia.org/resource/Norway> dbp:name "Norway".
+<http://dbpedia.org/resource/Oman> a dbo:Country. <http://dbpedia.org/resource/Oman> dbp:name "Oman".
+<http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe> a dbo:Country. <http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe> dbp:name "Organization for Security and Co-operation in Europe".
+<http://dbpedia.org/resource/Pakistan> a dbo:Country. <http://dbpedia.org/resource/Pakistan> dbp:name "Pakistan".
+<http://dbpedia.org/resource/Palau> a dbo:Country. <http://dbpedia.org/resource/Palau> dbp:name "Palau".
+<http://dbpedia.org/resource/Palestinian_National_Authority> a dbo:Country. <http://dbpedia.org/resource/Palestinian_National_Authority> dbp:name "Palestinian National Authority".
+<http://dbpedia.org/resource/Panama> a dbo:Country. <http://dbpedia.org/resource/Panama> dbp:name "Panama".
+<http://dbpedia.org/resource/Papua_New_Guinea> a dbo:Country. <http://dbpedia.org/resource/Papua_New_Guinea> dbp:name "Papua New Guinea".
+<http://dbpedia.org/resource/Paraguay> a dbo:Country. <http://dbpedia.org/resource/Paraguay> dbp:name "Paraguay".
+<http://dbpedia.org/resource/Philippines> a dbo:Country. <http://dbpedia.org/resource/Philippines> dbp:name "Philippines".
+<http://dbpedia.org/resource/Pitcairn_Islands> a dbo:Country. <http://dbpedia.org/resource/Pitcairn_Islands> dbp:name "Pitcairn Islands".
+<http://dbpedia.org/resource/Poland> a dbo:Country. <http://dbpedia.org/resource/Poland> dbp:name "Poland".
+<http://dbpedia.org/resource/Portugal> a dbo:Country. <http://dbpedia.org/resource/Portugal> dbp:name "Portugal".
+<http://dbpedia.org/resource/Puerto_Rico> a dbo:Country. <http://dbpedia.org/resource/Puerto_Rico> dbp:name "Puerto Rico".
+<http://dbpedia.org/resource/Republic_of_Ireland> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Ireland> dbp:name "Republic of Ireland".
+<http://dbpedia.org/resource/Romania> a dbo:Country. <http://dbpedia.org/resource/Romania> dbp:name "Romania".
+<http://dbpedia.org/resource/Russia> a dbo:Country. <http://dbpedia.org/resource/Russia> dbp:name "Russia".
+<http://dbpedia.org/resource/Rwanda> a dbo:Country. <http://dbpedia.org/resource/Rwanda> dbp:name "Rwanda".
+<http://dbpedia.org/resource/Saint_Helena> a dbo:Country. <http://dbpedia.org/resource/Saint_Helena> dbp:name "Saint Helena".
+<http://dbpedia.org/resource/Saint_Kitts_and_Nevis> a dbo:Country. <http://dbpedia.org/resource/Saint_Kitts_and_Nevis> dbp:name "Saint Kitts and Nevis".
+<http://dbpedia.org/resource/Saint_Lucia> a dbo:Country. <http://dbpedia.org/resource/Saint_Lucia> dbp:name "Saint Lucia".
+<http://dbpedia.org/resource/Saint_Pierre_and_Miquelon> a dbo:Country. <http://dbpedia.org/resource/Saint_Pierre_and_Miquelon> dbp:name "Saint Pierre and Miquelon".
+<http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines> a dbo:Country. <http://dbpedia.org/resource/Saint_Vincent_and_the_Grenadines> dbp:name "Saint Vincent and the Grenadines".
+<http://dbpedia.org/resource/Samoa> a dbo:Country. <http://dbpedia.org/resource/Samoa> dbp:name "Samoa".
+<http://dbpedia.org/resource/San_Marino> a dbo:Country. <http://dbpedia.org/resource/San_Marino> dbp:name "San Marino".
+<http://dbpedia.org/resource/Savoy> a dbo:Country. <http://dbpedia.org/resource/Savoy> dbp:name "Savoy".
+<http://dbpedia.org/resource/Senegal> a dbo:Country. <http://dbpedia.org/resource/Senegal> dbp:name "Senegal".
+<http://dbpedia.org/resource/Seychelles> a dbo:Country. <http://dbpedia.org/resource/Seychelles> dbp:name "Seychelles".
+<http://dbpedia.org/resource/Sierra_Leone> a dbo:Country. <http://dbpedia.org/resource/Sierra_Leone> dbp:name "Sierra Leone".
+<http://dbpedia.org/resource/Singapore> a dbo:Country. <http://dbpedia.org/resource/Singapore> dbp:name "Singapore".
+<http://dbpedia.org/resource/Slovakia> a dbo:Country. <http://dbpedia.org/resource/Slovakia> dbp:name "Slovakia".
+<http://dbpedia.org/resource/Slovenia> a dbo:Country. <http://dbpedia.org/resource/Slovenia> dbp:name "Slovenia".
+<http://dbpedia.org/resource/Somalia> a dbo:Country. <http://dbpedia.org/resource/Somalia> dbp:name "Somalia".
+<http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands> a dbo:Country. <http://dbpedia.org/resource/South_Georgia_and_the_South_Sandwich_Islands> dbp:name "South Georgia and the South Sandwich Islands".
+<http://dbpedia.org/resource/South_Korea> a dbo:Country. <http://dbpedia.org/resource/South_Korea> dbp:name "South Korea".
+<http://dbpedia.org/resource/Spain> a dbo:Country. <http://dbpedia.org/resource/Spain> dbp:name "Spain".
+<http://dbpedia.org/resource/Special_administrative_regions_of_China> a dbo:Country. <http://dbpedia.org/resource/Special_administrative_regions_of_China> dbp:name "Special administrative regions of China".
+<http://dbpedia.org/resource/Sri_Lanka> a dbo:Country. <http://dbpedia.org/resource/Sri_Lanka> dbp:name "Sri Lanka".
+<http://dbpedia.org/resource/Sudan> a dbo:Country. <http://dbpedia.org/resource/Sudan> dbp:name "Sudan".
+<http://dbpedia.org/resource/Suriname> a dbo:Country. <http://dbpedia.org/resource/Suriname> dbp:name "Suriname".
+<http://dbpedia.org/resource/Svalbard> a dbo:Country. <http://dbpedia.org/resource/Svalbard> dbp:name "Svalbard".
+<http://dbpedia.org/resource/Swaziland> a dbo:Country. <http://dbpedia.org/resource/Swaziland> dbp:name "Swaziland".
+<http://dbpedia.org/resource/Switzerland> a dbo:Country. <http://dbpedia.org/resource/Switzerland> dbp:name "Switzerland".
+<http://dbpedia.org/resource/Taiwan> a dbo:Country. <http://dbpedia.org/resource/Taiwan> dbp:name "Taiwan".
+<http://dbpedia.org/resource/The_Bahamas> a dbo:Country. <http://dbpedia.org/resource/The_Bahamas> dbp:name "The Bahamas".
+<http://dbpedia.org/resource/World_Organisation_for_Animal_Health> a dbo:Country. <http://dbpedia.org/resource/World_Organisation_for_Animal_Health> dbp:name "World Organisation for Animal Health".
+<http://dbpedia.org/resource/Abkhazia> a dbo:Country. <http://dbpedia.org/resource/Abkhazia> dbp:name "Abkhazia".
+<http://dbpedia.org/resource/Assembly_of_European_Regions> a dbo:Country. <http://dbpedia.org/resource/Assembly_of_European_Regions> dbp:name "Assembly of European Regions".
+<http://dbpedia.org/resource/Dao_(state)> a dbo:Country. <http://dbpedia.org/resource/Dao_(state)> dbp:name "Dao (state)".
+<http://dbpedia.org/resource/Djibouti> a dbo:Country. <http://dbpedia.org/resource/Djibouti> dbp:name "Djibouti".
+<http://dbpedia.org/resource/EUCLID_(university)> a dbo:Country. <http://dbpedia.org/resource/EUCLID_(university)> dbp:name "EUCLID (university)".
+<http://dbpedia.org/resource/Operation_Atlantis> a dbo:Country. <http://dbpedia.org/resource/Operation_Atlantis> dbp:name "Operation Atlantis".
+<http://dbpedia.org/resource/Pi_(state)> a dbo:Country. <http://dbpedia.org/resource/Pi_(state)> dbp:name "Pi (state)".
+<http://dbpedia.org/resource/Queen_Maud_Land> a dbo:Country. <http://dbpedia.org/resource/Queen_Maud_Land> dbp:name "Queen Maud Land".
+<http://dbpedia.org/resource/Riva_(Belgariad_and_Malloreon)> a dbo:Country. <http://dbpedia.org/resource/Riva_(Belgariad_and_Malloreon)> dbp:name "Riva (Belgariad and Malloreon)".
+<http://dbpedia.org/resource/European_Atomic_Energy_Community> a dbo:Country. <http://dbpedia.org/resource/European_Atomic_Energy_Community> dbp:name "European Atomic Energy Community".
+<http://dbpedia.org/resource/Posavina_Canton> a dbo:Country. <http://dbpedia.org/resource/Posavina_Canton> dbp:name "Posavina Canton".
+<http://dbpedia.org/resource/Sultanate_of_Ternate> a dbo:Country. <http://dbpedia.org/resource/Sultanate_of_Ternate> dbp:name "Sultanate of Ternate".
+<http://dbpedia.org/resource/Cabeça_do_Cachorro> a dbo:Country. <http://dbpedia.org/resource/Cabeça_do_Cachorro> dbp:name "Cabeça do Cachorro".
+<http://dbpedia.org/resource/Allied_Military_Government_for_Occupied_Territories> a dbo:Country. <http://dbpedia.org/resource/Allied_Military_Government_for_Occupied_Territories> dbp:name "Allied Military Government for Occupied Territories".
+<http://dbpedia.org/resource/Pan_American_Health_Organization> a dbo:Country. <http://dbpedia.org/resource/Pan_American_Health_Organization> dbp:name "Pan American Health Organization".
+<http://dbpedia.org/resource/Interfrisian_Council> a dbo:Country. <http://dbpedia.org/resource/Interfrisian_Council> dbp:name "Interfrisian Council".
+<http://dbpedia.org/resource/Italian_Empire> a dbo:Country. <http://dbpedia.org/resource/Italian_Empire> dbp:name "Italian Empire".
+<http://dbpedia.org/resource/Kingdom_of_Khana> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Khana> dbp:name "Kingdom of Khana".
+<http://dbpedia.org/resource/Pacific_Alliance> a dbo:Country. <http://dbpedia.org/resource/Pacific_Alliance> dbp:name "Pacific Alliance".
+<http://dbpedia.org/resource/IEA_Solar_Heating_and_Cooling_Programme> a dbo:Country. <http://dbpedia.org/resource/IEA_Solar_Heating_and_Cooling_Programme> dbp:name "IEA Solar Heating and Cooling Programme".
+<http://dbpedia.org/resource/Glacier_Republic> a dbo:Country. <http://dbpedia.org/resource/Glacier_Republic> dbp:name "Glacier Republic".
+<http://dbpedia.org/resource/Central_Regions_State> a dbo:Country. <http://dbpedia.org/resource/Central_Regions_State> dbp:name "Central Regions State".
+<http://dbpedia.org/resource/The_Pacific_Pumas> a dbo:Country. <http://dbpedia.org/resource/The_Pacific_Pumas> dbp:name "The Pacific Pumas".
+<http://dbpedia.org/resource/Adjara> a dbo:Country. <http://dbpedia.org/resource/Adjara> dbp:name "Adjara".
+<http://dbpedia.org/resource/Association_of_Southeast_Asian_Nations> a dbo:Country. <http://dbpedia.org/resource/Association_of_Southeast_Asian_Nations> dbp:name "Association of Southeast Asian Nations".
+<http://dbpedia.org/resource/Carriacou_and_Petite_Martinique> a dbo:Country. <http://dbpedia.org/resource/Carriacou_and_Petite_Martinique> dbp:name "Carriacou and Petite Martinique".
+<http://dbpedia.org/resource/Curaçao> a dbo:Country. <http://dbpedia.org/resource/Curaçao> dbp:name "Curaçao".
+<http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> a dbo:Country. <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> dbp:name "Democratic Republic of the Congo".
+<http://dbpedia.org/resource/Denmark> a dbo:Country. <http://dbpedia.org/resource/Denmark> dbp:name "Denmark".
+<http://dbpedia.org/resource/Georgia_(country)> a dbo:Country. <http://dbpedia.org/resource/Georgia_(country)> dbp:name "Georgia (country)".
+<http://dbpedia.org/resource/Herm> a dbo:Country. <http://dbpedia.org/resource/Herm> dbp:name "Herm".
+<http://dbpedia.org/resource/Ivory_Coast> a dbo:Country. <http://dbpedia.org/resource/Ivory_Coast> dbp:name "Ivory Coast".
+<http://dbpedia.org/resource/Serbia> a dbo:Country. <http://dbpedia.org/resource/Serbia> dbp:name "Serbia".
+<http://dbpedia.org/resource/Somaliland> a dbo:Country. <http://dbpedia.org/resource/Somaliland> dbp:name "Somaliland".
+<http://dbpedia.org/resource/Tajikistan> a dbo:Country. <http://dbpedia.org/resource/Tajikistan> dbp:name "Tajikistan".
+<http://dbpedia.org/resource/Thailand> a dbo:Country. <http://dbpedia.org/resource/Thailand> dbp:name "Thailand".
+<http://dbpedia.org/resource/The_Gambia> a dbo:Country. <http://dbpedia.org/resource/The_Gambia> dbp:name "The Gambia".
+<http://dbpedia.org/resource/Togo> a dbo:Country. <http://dbpedia.org/resource/Togo> dbp:name "Togo".
+<http://dbpedia.org/resource/Tonga> a dbo:Country. <http://dbpedia.org/resource/Tonga> dbp:name "Tonga".
+<http://dbpedia.org/resource/Tristan_da_Cunha> a dbo:Country. <http://dbpedia.org/resource/Tristan_da_Cunha> dbp:name "Tristan da Cunha".
+<http://dbpedia.org/resource/Tunisia> a dbo:Country. <http://dbpedia.org/resource/Tunisia> dbp:name "Tunisia".
+<http://dbpedia.org/resource/Tuvalu> a dbo:Country. <http://dbpedia.org/resource/Tuvalu> dbp:name "Tuvalu".
+<http://dbpedia.org/resource/Ukraine> a dbo:Country. <http://dbpedia.org/resource/Ukraine> dbp:name "Ukraine".
+<http://dbpedia.org/resource/United_Kingdom> a dbo:Country. <http://dbpedia.org/resource/United_Kingdom> dbp:name "United Kingdom".
+<http://dbpedia.org/resource/United_States_Virgin_Islands> a dbo:Country. <http://dbpedia.org/resource/United_States_Virgin_Islands> dbp:name "United States Virgin Islands".
+<http://dbpedia.org/resource/Uruguay> a dbo:Country. <http://dbpedia.org/resource/Uruguay> dbp:name "Uruguay".
+<http://dbpedia.org/resource/Uzbekistan> a dbo:Country. <http://dbpedia.org/resource/Uzbekistan> dbp:name "Uzbekistan".
+<http://dbpedia.org/resource/Vanuatu> a dbo:Country. <http://dbpedia.org/resource/Vanuatu> dbp:name "Vanuatu".
+<http://dbpedia.org/resource/Vatican_City> a dbo:Country. <http://dbpedia.org/resource/Vatican_City> dbp:name "Vatican City".
+<http://dbpedia.org/resource/Venezuela> a dbo:Country. <http://dbpedia.org/resource/Venezuela> dbp:name "Venezuela".
+<http://dbpedia.org/resource/Wallis_and_Futuna> a dbo:Country. <http://dbpedia.org/resource/Wallis_and_Futuna> dbp:name "Wallis and Futuna".
+<http://dbpedia.org/resource/Zambia> a dbo:Country. <http://dbpedia.org/resource/Zambia> dbp:name "Zambia".
+<http://dbpedia.org/resource/Zimbabwe> a dbo:Country. <http://dbpedia.org/resource/Zimbabwe> dbp:name "Zimbabwe".
+<http://dbpedia.org/resource/Bailiwick_of_Guernsey> a dbo:Country. <http://dbpedia.org/resource/Bailiwick_of_Guernsey> dbp:name "Bailiwick of Guernsey".
+<http://dbpedia.org/resource/Boys_Nation> a dbo:Country. <http://dbpedia.org/resource/Boys_Nation> dbp:name "Boys Nation".
+<http://dbpedia.org/resource/Cambodia> a dbo:Country. <http://dbpedia.org/resource/Cambodia> dbp:name "Cambodia".
+<http://dbpedia.org/resource/Community_of_Portuguese_Language_Countries> a dbo:Country. <http://dbpedia.org/resource/Community_of_Portuguese_Language_Countries> dbp:name "Community of Portuguese Language Countries".
+<http://dbpedia.org/resource/Ethiopia> a dbo:Country. <http://dbpedia.org/resource/Ethiopia> dbp:name "Ethiopia".
+<http://dbpedia.org/resource/Federation_of_Bosnia_and_Herzegovina> a dbo:Country. <http://dbpedia.org/resource/Federation_of_Bosnia_and_Herzegovina> dbp:name "Federation of Bosnia and Herzegovina".
+<http://dbpedia.org/resource/French_Fifth_Republic> a dbo:Country. <http://dbpedia.org/resource/French_Fifth_Republic> dbp:name "French Fifth Republic".
+<http://dbpedia.org/resource/Gagauzia> a dbo:Country. <http://dbpedia.org/resource/Gagauzia> dbp:name "Gagauzia".
+<http://dbpedia.org/resource/Iraqi_Kurdistan> a dbo:Country. <http://dbpedia.org/resource/Iraqi_Kurdistan> dbp:name "Iraqi Kurdistan".
+<http://dbpedia.org/resource/Kenya> a dbo:Country. <http://dbpedia.org/resource/Kenya> dbp:name "Kenya".
+<http://dbpedia.org/resource/Kyrgyzstan> a dbo:Country. <http://dbpedia.org/resource/Kyrgyzstan> dbp:name "Kyrgyzstan".
+<http://dbpedia.org/resource/Latin_Union> a dbo:Country. <http://dbpedia.org/resource/Latin_Union> dbp:name "Latin Union".
+<http://dbpedia.org/resource/List_of_Zambians> a dbo:Country. <http://dbpedia.org/resource/List_of_Zambians> dbp:name "List of Zambians".
+<http://dbpedia.org/resource/Nepal> a dbo:Country. <http://dbpedia.org/resource/Nepal> dbp:name "Nepal".
+<http://dbpedia.org/resource/Northern_Cyprus> a dbo:Country. <http://dbpedia.org/resource/Northern_Cyprus> dbp:name "Northern Cyprus".
+<http://dbpedia.org/resource/Peter_I_Island> a dbo:Country. <http://dbpedia.org/resource/Peter_I_Island> dbp:name "Peter I Island".
+<http://dbpedia.org/resource/Rotuma> a dbo:Country. <http://dbpedia.org/resource/Rotuma> dbp:name "Rotuma".
+<http://dbpedia.org/resource/Solomon_Islands> a dbo:Country. <http://dbpedia.org/resource/Solomon_Islands> dbp:name "Solomon Islands".
+<http://dbpedia.org/resource/South_Ossetia> a dbo:Country. <http://dbpedia.org/resource/South_Ossetia> dbp:name "South Ossetia".
+<http://dbpedia.org/resource/Turkmenistan> a dbo:Country. <http://dbpedia.org/resource/Turkmenistan> dbp:name "Turkmenistan".
+<http://dbpedia.org/resource/Vietnam> a dbo:Country. <http://dbpedia.org/resource/Vietnam> dbp:name "Vietnam".
+<http://dbpedia.org/resource/Nagorno-Karabakh_Republic> a dbo:Country. <http://dbpedia.org/resource/Nagorno-Karabakh_Republic> dbp:name "Nagorno-Karabakh Republic".
+<http://dbpedia.org/resource/Wallis_(island)> a dbo:Country. <http://dbpedia.org/resource/Wallis_(island)> dbp:name "Wallis (island)".
+<http://dbpedia.org/resource/Barony_of_Caux> a dbo:Country. <http://dbpedia.org/resource/Barony_of_Caux> dbp:name "Barony of Caux".
+<http://dbpedia.org/resource/Donetsk_People's_Republic> a dbo:Country. <http://dbpedia.org/resource/Donetsk_People's_Republic> dbp:name "Donetsk People's Republic".
+<http://dbpedia.org/resource/Nation_of_Celestial_Space> a dbo:Country. <http://dbpedia.org/resource/Nation_of_Celestial_Space> dbp:name "Nation of Celestial Space".
+<http://dbpedia.org/resource/New_Utopia> a dbo:Country. <http://dbpedia.org/resource/New_Utopia> dbp:name "New Utopia".
+<http://dbpedia.org/resource/Galmudug> a dbo:Country. <http://dbpedia.org/resource/Galmudug> dbp:name "Galmudug".
+<http://dbpedia.org/resource/Kingdom_of_Elleore> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Elleore> dbp:name "Kingdom of Elleore".
+<http://dbpedia.org/resource/Mercosur> a dbo:Country. <http://dbpedia.org/resource/Mercosur> dbp:name "Mercosur".
+<http://dbpedia.org/resource/Saint_Helena,_Ascension_and_Tristan_da_Cunha> a dbo:Country. <http://dbpedia.org/resource/Saint_Helena,_Ascension_and_Tristan_da_Cunha> dbp:name "Saint Helena, Ascension and Tristan da Cunha".
+<http://dbpedia.org/resource/Turkic_Council> a dbo:Country. <http://dbpedia.org/resource/Turkic_Council> dbp:name "Turkic Council".
+<http://dbpedia.org/resource/Global_Organization_of_Parliamentarians_Against_Corruption> a dbo:Country. <http://dbpedia.org/resource/Global_Organization_of_Parliamentarians_Against_Corruption> dbp:name "Global Organization of Parliamentarians Against Corruption".
+<http://dbpedia.org/resource/Grand_Duchy_of_Flandrensis> a dbo:Country. <http://dbpedia.org/resource/Grand_Duchy_of_Flandrensis> dbp:name "Grand Duchy of Flandrensis".
+<http://dbpedia.org/resource/Murrawarri_Republic> a dbo:Country. <http://dbpedia.org/resource/Murrawarri_Republic> dbp:name "Murrawarri Republic".
+<http://dbpedia.org/resource/Rojava> a dbo:Country. <http://dbpedia.org/resource/Rojava> dbp:name "Rojava".
+<http://dbpedia.org/resource/United_Kingdom_Overseas_Territories_Association> a dbo:Country. <http://dbpedia.org/resource/United_Kingdom_Overseas_Territories_Association> dbp:name "United Kingdom Overseas Territories Association".
+<http://dbpedia.org/resource/World_Summit_of_Nobel_Peace_Laureates> a dbo:Country. <http://dbpedia.org/resource/World_Summit_of_Nobel_Peace_Laureates> dbp:name "World Summit of Nobel Peace Laureates".
+<http://dbpedia.org/resource/Five_Eyes> a dbo:Country. <http://dbpedia.org/resource/Five_Eyes> dbp:name "Five Eyes".
+<http://dbpedia.org/resource/Kingdom_of_Redonda> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Redonda> dbp:name "Kingdom of Redonda".
+<http://dbpedia.org/resource/Provincial_deputation_in_Spanish_America> a dbo:Country. <http://dbpedia.org/resource/Provincial_deputation_in_Spanish_America> dbp:name "Provincial deputation in Spanish America".
+<http://dbpedia.org/resource/Baltic_Assembly> a dbo:Country. <http://dbpedia.org/resource/Baltic_Assembly> dbp:name "Baltic Assembly".
+<http://dbpedia.org/resource/Himan_and_Heeb> a dbo:Country. <http://dbpedia.org/resource/Himan_and_Heeb> dbp:name "Himan and Heeb".
+<http://dbpedia.org/resource/Netherlands_lunar_sample_displays> a dbo:Country. <http://dbpedia.org/resource/Netherlands_lunar_sample_displays> dbp:name "Netherlands lunar sample displays".
+<http://dbpedia.org/resource/Romania_lunar_sample_displays> a dbo:Country. <http://dbpedia.org/resource/Romania_lunar_sample_displays> dbp:name "Romania lunar sample displays".
+<http://dbpedia.org/resource/International_Conference_on_the_Great_Lakes_Region> a dbo:Country. <http://dbpedia.org/resource/International_Conference_on_the_Great_Lakes_Region> dbp:name "International Conference on the Great Lakes Region".
+<http://dbpedia.org/resource/National_symbols_of_Sri_Lanka> a dbo:Country. <http://dbpedia.org/resource/National_symbols_of_Sri_Lanka> dbp:name "National symbols of Sri Lanka".
+<http://dbpedia.org/resource/Mayor_of_Zamboanga_City> a dbo:Country. <http://dbpedia.org/resource/Mayor_of_Zamboanga_City> dbp:name "Mayor of Zamboanga City".
+<http://dbpedia.org/resource/Three_Linguistic_Spaces> a dbo:Country. <http://dbpedia.org/resource/Three_Linguistic_Spaces> dbp:name "Three Linguistic Spaces".
+<http://dbpedia.org/resource/Organisation_internationale_de_la_Francophonie> a dbo:Country. <http://dbpedia.org/resource/Organisation_internationale_de_la_Francophonie> dbp:name "Organisation internationale de la Francophonie".
+<http://dbpedia.org/resource/Palestinian_territories> a dbo:Country. <http://dbpedia.org/resource/Palestinian_territories> dbp:name "Palestinian territories".
+<http://dbpedia.org/resource/Principality_of_Sealand> a dbo:Country. <http://dbpedia.org/resource/Principality_of_Sealand> dbp:name "Principality of Sealand".
+<http://dbpedia.org/resource/Sark> a dbo:Country. <http://dbpedia.org/resource/Sark> dbp:name "Sark".
+<http://dbpedia.org/resource/Sovereign_Military_Order_of_Malta> a dbo:Country. <http://dbpedia.org/resource/Sovereign_Military_Order_of_Malta> dbp:name "Sovereign Military Order of Malta".
+<http://dbpedia.org/resource/Tanzania> a dbo:Country. <http://dbpedia.org/resource/Tanzania> dbp:name "Tanzania".
+<http://dbpedia.org/resource/Tokelau> a dbo:Country. <http://dbpedia.org/resource/Tokelau> dbp:name "Tokelau".
+<http://dbpedia.org/resource/Tromelin_Island> a dbo:Country. <http://dbpedia.org/resource/Tromelin_Island> dbp:name "Tromelin Island".
+<http://dbpedia.org/resource/Turks_and_Caicos_Islands> a dbo:Country. <http://dbpedia.org/resource/Turks_and_Caicos_Islands> dbp:name "Turks and Caicos Islands".
+<http://dbpedia.org/resource/United_Arab_Emirates> a dbo:Country. <http://dbpedia.org/resource/United_Arab_Emirates> dbp:name "United Arab Emirates".
+<http://dbpedia.org/resource/Zanzibar> a dbo:Country. <http://dbpedia.org/resource/Zanzibar> dbp:name "Zanzibar".
+<http://dbpedia.org/resource/Argentina> a dbo:Country. <http://dbpedia.org/resource/Argentina> dbp:name "Argentina".
+<http://dbpedia.org/resource/Autonomous_Province_of_Kosovo_and_Metohija> a dbo:Country. <http://dbpedia.org/resource/Autonomous_Province_of_Kosovo_and_Metohija> dbp:name "Autonomous Province of Kosovo and Metohija".
+<http://dbpedia.org/resource/British_Antarctic_Territory> a dbo:Country. <http://dbpedia.org/resource/British_Antarctic_Territory> dbp:name "British Antarctic Territory".
+<http://dbpedia.org/resource/Burundi> a dbo:Country. <http://dbpedia.org/resource/Burundi> dbp:name "Burundi".
+<http://dbpedia.org/resource/Canada> a dbo:Country. <http://dbpedia.org/resource/Canada> dbp:name "Canada".
+<http://dbpedia.org/resource/Cascadia_(independence_movement)> a dbo:Country. <http://dbpedia.org/resource/Cascadia_(independence_movement)> dbp:name "Cascadia (independence movement)".
+<http://dbpedia.org/resource/Cherokee_Nation> a dbo:Country. <http://dbpedia.org/resource/Cherokee_Nation> dbp:name "Cherokee Nation".
+<http://dbpedia.org/resource/Collectivity_of_Saint_Martin> a dbo:Country. <http://dbpedia.org/resource/Collectivity_of_Saint_Martin> dbp:name "Collectivity of Saint Martin".
+<http://dbpedia.org/resource/Colombo_Plan> a dbo:Country. <http://dbpedia.org/resource/Colombo_Plan> dbp:name "Colombo Plan".
+<http://dbpedia.org/resource/Cuba> a dbo:Country. <http://dbpedia.org/resource/Cuba> dbp:name "Cuba".
+<http://dbpedia.org/resource/Estonia> a dbo:Country. <http://dbpedia.org/resource/Estonia> dbp:name "Estonia".
+<http://dbpedia.org/resource/Falkland_Islands> a dbo:Country. <http://dbpedia.org/resource/Falkland_Islands> dbp:name "Falkland Islands".
+<http://dbpedia.org/resource/France> a dbo:Country. <http://dbpedia.org/resource/France> dbp:name "France".
+<http://dbpedia.org/resource/Free_Republic_of_Wendland> a dbo:Country. <http://dbpedia.org/resource/Free_Republic_of_Wendland> dbp:name "Free Republic of Wendland".
+<http://dbpedia.org/resource/Gibraltar> a dbo:Country. <http://dbpedia.org/resource/Gibraltar> dbp:name "Gibraltar".
+<http://dbpedia.org/resource/Grenada> a dbo:Country. <http://dbpedia.org/resource/Grenada> dbp:name "Grenada".
+<http://dbpedia.org/resource/Guatemala> a dbo:Country. <http://dbpedia.org/resource/Guatemala> dbp:name "Guatemala".
+<http://dbpedia.org/resource/Guyana> a dbo:Country. <http://dbpedia.org/resource/Guyana> dbp:name "Guyana".
+<http://dbpedia.org/resource/Israel> a dbo:Country. <http://dbpedia.org/resource/Israel> dbp:name "Israel".
+<http://dbpedia.org/resource/Jubaland> a dbo:Country. <http://dbpedia.org/resource/Jubaland> dbp:name "Jubaland".
+<http://dbpedia.org/resource/Kuwait> a dbo:Country. <http://dbpedia.org/resource/Kuwait> dbp:name "Kuwait".
+<http://dbpedia.org/resource/Mauritania> a dbo:Country. <http://dbpedia.org/resource/Mauritania> dbp:name "Mauritania".
+<http://dbpedia.org/resource/Mexico> a dbo:Country. <http://dbpedia.org/resource/Mexico> dbp:name "Mexico".
+<http://dbpedia.org/resource/Principality_of_Wy> a dbo:Country. <http://dbpedia.org/resource/Principality_of_Wy> dbp:name "Principality of Wy".
+<http://dbpedia.org/resource/Republic_of_Lakotah> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Lakotah> dbp:name "Republic of Lakotah".
+<http://dbpedia.org/resource/Republika_Srpska> a dbo:Country. <http://dbpedia.org/resource/Republika_Srpska> dbp:name "Republika Srpska".
+<http://dbpedia.org/resource/South_Sudan> a dbo:Country. <http://dbpedia.org/resource/South_Sudan> dbp:name "South Sudan".
+<http://dbpedia.org/resource/Trilateral_Cooperation_Secretariat> a dbo:Country. <http://dbpedia.org/resource/Trilateral_Cooperation_Secretariat> dbp:name "Trilateral Cooperation Secretariat".
+<http://dbpedia.org/resource/Union_of_Sovereign_States> a dbo:Country. <http://dbpedia.org/resource/Union_of_Sovereign_States> dbp:name "Union of Sovereign States".
+<http://dbpedia.org/resource/Wa_State> a dbo:Country. <http://dbpedia.org/resource/Wa_State> dbp:name "Wa State".
+<http://dbpedia.org/resource/Nagorno-Karabakh> a dbo:Country. <http://dbpedia.org/resource/Nagorno-Karabakh> dbp:name "Nagorno-Karabakh".
+<http://dbpedia.org/resource/Cape_Verde> a dbo:Country. <http://dbpedia.org/resource/Cape_Verde> dbp:name "Cape Verde".
+<http://dbpedia.org/resource/Cricket_Samoa> a dbo:Country. <http://dbpedia.org/resource/Cricket_Samoa> dbp:name "Cricket Samoa".
+<http://dbpedia.org/resource/Dominion_of_British_West_Florida> a dbo:Country. <http://dbpedia.org/resource/Dominion_of_British_West_Florida> dbp:name "Dominion of British West Florida".
+<http://dbpedia.org/resource/East_Timor> a dbo:Country. <http://dbpedia.org/resource/East_Timor> dbp:name "East Timor".
+<http://dbpedia.org/resource/Grand_Duchy_of_the_Lagoan_Isles> a dbo:Country. <http://dbpedia.org/resource/Grand_Duchy_of_the_Lagoan_Isles> dbp:name "Grand Duchy of the Lagoan Isles".
+<http://dbpedia.org/resource/Kingdom_of_Vikesland> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Vikesland> dbp:name "Kingdom of Vikesland".
+<http://dbpedia.org/resource/Nineveh_plains> a dbo:Country. <http://dbpedia.org/resource/Nineveh_plains> dbp:name "Nineveh plains".
+<http://dbpedia.org/resource/Schaesberg> a dbo:Country. <http://dbpedia.org/resource/Schaesberg> dbp:name "Schaesberg".
+<http://dbpedia.org/resource/Dutch_Language_Union> a dbo:Country. <http://dbpedia.org/resource/Dutch_Language_Union> dbp:name "Dutch Language Union".
+<http://dbpedia.org/resource/Paraguayan_architecture> a dbo:Country. <http://dbpedia.org/resource/Paraguayan_architecture> dbp:name "Paraguayan architecture".
+<http://dbpedia.org/resource/Aerican_Empire> a dbo:Country. <http://dbpedia.org/resource/Aerican_Empire> dbp:name "Aerican Empire".
+<http://dbpedia.org/resource/ISIL_territorial_claims> a dbo:Country. <http://dbpedia.org/resource/ISIL_territorial_claims> dbp:name "ISIL territorial claims".
+<http://dbpedia.org/resource/Syrian_Interim_Government> a dbo:Country. <http://dbpedia.org/resource/Syrian_Interim_Government> dbp:name "Syrian Interim Government".
+<http://dbpedia.org/resource/Ramnad_estate> a dbo:Country. <http://dbpedia.org/resource/Ramnad_estate> dbp:name "Ramnad estate".
+<http://dbpedia.org/resource/Commemorative_coins_of_Romania> a dbo:Country. <http://dbpedia.org/resource/Commemorative_coins_of_Romania> dbp:name "Commemorative coins of Romania".
+<http://dbpedia.org/resource/Reichskommissariat_Don-Wolga> a dbo:Country. <http://dbpedia.org/resource/Reichskommissariat_Don-Wolga> dbp:name "Reichskommissariat Don-Wolga".
+<http://dbpedia.org/resource/Mthwakazi> a dbo:Country. <http://dbpedia.org/resource/Mthwakazi> dbp:name "Mthwakazi".
+<http://dbpedia.org/resource/Passports_issued_by_the_European_Union_candidate_states> a dbo:Country. <http://dbpedia.org/resource/Passports_issued_by_the_European_Union_candidate_states> dbp:name "Passports issued by the European Union candidate states".
+<http://dbpedia.org/resource/ABC_islands_(Lesser_Antilles)> a dbo:Country. <http://dbpedia.org/resource/ABC_islands_(Lesser_Antilles)> dbp:name "ABC islands (Lesser Antilles)".
+<http://dbpedia.org/resource/African_Union> a dbo:Country. <http://dbpedia.org/resource/African_Union> dbp:name "African Union".
+<http://dbpedia.org/resource/American_Samoa> a dbo:Country. <http://dbpedia.org/resource/American_Samoa> dbp:name "American Samoa".
+<http://dbpedia.org/resource/Armenia> a dbo:Country. <http://dbpedia.org/resource/Armenia> dbp:name "Armenia".
+<http://dbpedia.org/resource/Australia> a dbo:Country. <http://dbpedia.org/resource/Australia> dbp:name "Australia".
+<http://dbpedia.org/resource/Austria> a dbo:Country. <http://dbpedia.org/resource/Austria> dbp:name "Austria".
+<http://dbpedia.org/resource/Bahrain> a dbo:Country. <http://dbpedia.org/resource/Bahrain> dbp:name "Bahrain".
+<http://dbpedia.org/resource/Baltic_states> a dbo:Country. <http://dbpedia.org/resource/Baltic_states> dbp:name "Baltic states".
+<http://dbpedia.org/resource/Basque_Country_(greater_region)> a dbo:Country. <http://dbpedia.org/resource/Basque_Country_(greater_region)> dbp:name "Basque Country (greater region)".
+<http://dbpedia.org/resource/Bhutan> a dbo:Country. <http://dbpedia.org/resource/Bhutan> dbp:name "Bhutan".
+<http://dbpedia.org/resource/British_Overseas_Territories> a dbo:Country. <http://dbpedia.org/resource/British_Overseas_Territories> dbp:name "British Overseas Territories".
+<http://dbpedia.org/resource/Commonwealth_of_Independent_States> a dbo:Country. <http://dbpedia.org/resource/Commonwealth_of_Independent_States> dbp:name "Commonwealth of Independent States".
+<http://dbpedia.org/resource/Commonwealth_of_Nations> a dbo:Country. <http://dbpedia.org/resource/Commonwealth_of_Nations> dbp:name "Commonwealth of Nations".
+<http://dbpedia.org/resource/Dominica> a dbo:Country. <http://dbpedia.org/resource/Dominica> dbp:name "Dominica".
+<http://dbpedia.org/resource/Eritrea> a dbo:Country. <http://dbpedia.org/resource/Eritrea> dbp:name "Eritrea".
+<http://dbpedia.org/resource/European_Rental_Association> a dbo:Country. <http://dbpedia.org/resource/European_Rental_Association> dbp:name "European Rental Association".
+<http://dbpedia.org/resource/Freetown_Christiania> a dbo:Country. <http://dbpedia.org/resource/Freetown_Christiania> dbp:name "Freetown Christiania".
+<http://dbpedia.org/resource/Gold_Coast_(region)> a dbo:Country. <http://dbpedia.org/resource/Gold_Coast_(region)> dbp:name "Gold Coast (region)".
+<http://dbpedia.org/resource/International_Energy_Agency> a dbo:Country. <http://dbpedia.org/resource/International_Energy_Agency> dbp:name "International Energy Agency".
+<http://dbpedia.org/resource/Iraq> a dbo:Country. <http://dbpedia.org/resource/Iraq> dbp:name "Iraq".
+<http://dbpedia.org/resource/Jordan> a dbo:Country. <http://dbpedia.org/resource/Jordan> dbp:name "Jordan".
+<http://dbpedia.org/resource/Kingdom_of_the_Netherlands> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_the_Netherlands> dbp:name "Kingdom of the Netherlands".
+<http://dbpedia.org/resource/Malaysia> a dbo:Country. <http://dbpedia.org/resource/Malaysia> dbp:name "Malaysia".
+<http://dbpedia.org/resource/Mount_Athos> a dbo:Country. <http://dbpedia.org/resource/Mount_Athos> dbp:name "Mount Athos".
+<http://dbpedia.org/resource/Nordic_countries> a dbo:Country. <http://dbpedia.org/resource/Nordic_countries> dbp:name "Nordic countries".
+<http://dbpedia.org/resource/Nuclear_Energy_Agency> a dbo:Country. <http://dbpedia.org/resource/Nuclear_Energy_Agency> dbp:name "Nuclear Energy Agency".
+<http://dbpedia.org/resource/Peru> a dbo:Country. <http://dbpedia.org/resource/Peru> dbp:name "Peru".
+<http://dbpedia.org/resource/Principality_of_Hutt_River> a dbo:Country. <http://dbpedia.org/resource/Principality_of_Hutt_River> dbp:name "Principality of Hutt River".
+<http://dbpedia.org/resource/Puntland> a dbo:Country. <http://dbpedia.org/resource/Puntland> dbp:name "Puntland".
+<http://dbpedia.org/resource/Qatar> a dbo:Country. <http://dbpedia.org/resource/Qatar> dbp:name "Qatar".
+<http://dbpedia.org/resource/Republic_of_Macedonia> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Macedonia> dbp:name "Republic of Macedonia".
+<http://dbpedia.org/resource/Republic_of_the_Congo> a dbo:Country. <http://dbpedia.org/resource/Republic_of_the_Congo> dbp:name "Republic of the Congo".
+<http://dbpedia.org/resource/Saudi_Arabia> a dbo:Country. <http://dbpedia.org/resource/Saudi_Arabia> dbp:name "Saudi Arabia".
+<http://dbpedia.org/resource/South_Africa> a dbo:Country. <http://dbpedia.org/resource/South_Africa> dbp:name "South Africa".
+<http://dbpedia.org/resource/Southern_African_Development_Community> a dbo:Country. <http://dbpedia.org/resource/Southern_African_Development_Community> dbp:name "Southern African Development Community".
+<http://dbpedia.org/resource/State_of_Palestine> a dbo:Country. <http://dbpedia.org/resource/State_of_Palestine> dbp:name "State of Palestine".
+<http://dbpedia.org/resource/Sui_(state)> a dbo:Country. <http://dbpedia.org/resource/Sui_(state)> dbp:name "Sui (state)".
+<http://dbpedia.org/resource/Sweden> a dbo:Country. <http://dbpedia.org/resource/Sweden> dbp:name "Sweden".
+<http://dbpedia.org/resource/São_Tomé_and_Príncipe> a dbo:Country. <http://dbpedia.org/resource/São_Tomé_and_Príncipe> dbp:name "São Tomé and Príncipe".
+<http://dbpedia.org/resource/Trinidad_and_Tobago> a dbo:Country. <http://dbpedia.org/resource/Trinidad_and_Tobago> dbp:name "Trinidad and Tobago".
+<http://dbpedia.org/resource/Turkey> a dbo:Country. <http://dbpedia.org/resource/Turkey> dbp:name "Turkey".
+<http://dbpedia.org/resource/Adélie_Land> a dbo:Country. <http://dbpedia.org/resource/Adélie_Land> dbp:name "Adélie Land".
+<http://dbpedia.org/resource/Akrotiri_and_Dhekelia> a dbo:Country. <http://dbpedia.org/resource/Akrotiri_and_Dhekelia> dbp:name "Akrotiri and Dhekelia".
+<http://dbpedia.org/resource/Alderney> a dbo:Country. <http://dbpedia.org/resource/Alderney> dbp:name "Alderney".
+<http://dbpedia.org/resource/Anjouan> a dbo:Country. <http://dbpedia.org/resource/Anjouan> dbp:name "Anjouan".
+<http://dbpedia.org/resource/Australian_Antarctic_Territory> a dbo:Country. <http://dbpedia.org/resource/Australian_Antarctic_Territory> dbp:name "Australian Antarctic Territory".
+<http://dbpedia.org/resource/Central_Bosnia_Canton> a dbo:Country. <http://dbpedia.org/resource/Central_Bosnia_Canton> dbp:name "Central Bosnia Canton".
+<http://dbpedia.org/resource/Commander_Islands> a dbo:Country. <http://dbpedia.org/resource/Commander_Islands> dbp:name "Commander Islands".
+<http://dbpedia.org/resource/Conch_Republic> a dbo:Country. <http://dbpedia.org/resource/Conch_Republic> dbp:name "Conch Republic".
+<http://dbpedia.org/resource/Crozet_Islands> a dbo:Country. <http://dbpedia.org/resource/Crozet_Islands> dbp:name "Crozet Islands".
+<http://dbpedia.org/resource/Darfur> a dbo:Country. <http://dbpedia.org/resource/Darfur> dbp:name "Darfur".
+<http://dbpedia.org/resource/Grande_Comore> a dbo:Country. <http://dbpedia.org/resource/Grande_Comore> dbp:name "Grande Comore".
+<http://dbpedia.org/resource/Herzegovina-Neretva_Canton> a dbo:Country. <http://dbpedia.org/resource/Herzegovina-Neretva_Canton> dbp:name "Herzegovina-Neretva Canton".
+<http://dbpedia.org/resource/Karakalpakstan> a dbo:Country. <http://dbpedia.org/resource/Karakalpakstan> dbp:name "Karakalpakstan".
+<http://dbpedia.org/resource/Mohéli> a dbo:Country. <http://dbpedia.org/resource/Mohéli> dbp:name "Mohéli".
+<http://dbpedia.org/resource/Nakhchivan_Autonomous_Republic> a dbo:Country. <http://dbpedia.org/resource/Nakhchivan_Autonomous_Republic> dbp:name "Nakhchivan Autonomous Republic".
+<http://dbpedia.org/resource/Province_of_Bumbunga> a dbo:Country. <http://dbpedia.org/resource/Province_of_Bumbunga> dbp:name "Province of Bumbunga".
+<http://dbpedia.org/resource/Ross_Dependency> a dbo:Country. <http://dbpedia.org/resource/Ross_Dependency> dbp:name "Ross Dependency".
+<http://dbpedia.org/resource/South_West_State_of_Somalia> a dbo:Country. <http://dbpedia.org/resource/South_West_State_of_Somalia> dbp:name "South West State of Somalia".
+<http://dbpedia.org/resource/Sultanate_of_Sulu> a dbo:Country. <http://dbpedia.org/resource/Sultanate_of_Sulu> dbp:name "Sultanate of Sulu".
+<http://dbpedia.org/resource/Tobago> a dbo:Country. <http://dbpedia.org/resource/Tobago> dbp:name "Tobago".
+<http://dbpedia.org/resource/Torres_Strait_Islands> a dbo:Country. <http://dbpedia.org/resource/Torres_Strait_Islands> dbp:name "Torres Strait Islands".
+<http://dbpedia.org/resource/Transnistria> a dbo:Country. <http://dbpedia.org/resource/Transnistria> dbp:name "Transnistria".
+<http://dbpedia.org/resource/Una-Sana_Canton> a dbo:Country. <http://dbpedia.org/resource/Una-Sana_Canton> dbp:name "Una-Sana Canton".
+<http://dbpedia.org/resource/Upper_Mustang> a dbo:Country. <http://dbpedia.org/resource/Upper_Mustang> dbp:name "Upper Mustang".
+<http://dbpedia.org/resource/Vojvodina> a dbo:Country. <http://dbpedia.org/resource/Vojvodina> dbp:name "Vojvodina".
+<http://dbpedia.org/resource/West_Herzegovina_Canton> a dbo:Country. <http://dbpedia.org/resource/West_Herzegovina_Canton> dbp:name "West Herzegovina Canton".
+<http://dbpedia.org/resource/Yemen> a dbo:Country. <http://dbpedia.org/resource/Yemen> dbp:name "Yemen".
+<http://dbpedia.org/resource/Ruo_(state)> a dbo:Country. <http://dbpedia.org/resource/Ruo_(state)> dbp:name "Ruo (state)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Luxembourg)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Luxembourg)> dbp:name "Euro gold and silver commemorative coins (Luxembourg)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(San_Marino)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(San_Marino)> dbp:name "Euro gold and silver commemorative coins (San Marino)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Vatican)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Vatican)> dbp:name "Euro gold and silver commemorative coins (Vatican)".
+<http://dbpedia.org/resource/Canton_10> a dbo:Country. <http://dbpedia.org/resource/Canton_10> dbp:name "Canton 10".
+<http://dbpedia.org/resource/Grand_Duchy_of_Avram> a dbo:Country. <http://dbpedia.org/resource/Grand_Duchy_of_Avram> dbp:name "Grand Duchy of Avram".
+<http://dbpedia.org/resource/President_of_the_Philippines> a dbo:Country. <http://dbpedia.org/resource/President_of_the_Philippines> dbp:name "President of the Philippines".
+<http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation> a dbo:Country. <http://dbpedia.org/resource/South_Asian_Association_for_Regional_Cooperation> dbp:name "South Asian Association for Regional Cooperation".
+<http://dbpedia.org/resource/Scattered_Islands_in_the_Indian_Ocean> a dbo:Country. <http://dbpedia.org/resource/Scattered_Islands_in_the_Indian_Ocean> dbp:name "Scattered Islands in the Indian Ocean".
+<http://dbpedia.org/resource/Empire_of_Atlantium> a dbo:Country. <http://dbpedia.org/resource/Empire_of_Atlantium> dbp:name "Empire of Atlantium".
+<http://dbpedia.org/resource/Gay_and_Lesbian_Kingdom_of_the_Coral_Sea_Islands> a dbo:Country. <http://dbpedia.org/resource/Gay_and_Lesbian_Kingdom_of_the_Coral_Sea_Islands> dbp:name "Gay and Lesbian Kingdom of the Coral Sea Islands".
+<http://dbpedia.org/resource/Indian-Ocean_Rim_Association> a dbo:Country. <http://dbpedia.org/resource/Indian-Ocean_Rim_Association> dbp:name "Indian-Ocean Rim Association".
+<http://dbpedia.org/resource/Minnesota_Chippewa_Tribe> a dbo:Country. <http://dbpedia.org/resource/Minnesota_Chippewa_Tribe> dbp:name "Minnesota Chippewa Tribe".
+<http://dbpedia.org/resource/Principality_of_Freedonia> a dbo:Country. <http://dbpedia.org/resource/Principality_of_Freedonia> dbp:name "Principality of Freedonia".
+<http://dbpedia.org/resource/Mitanni> a dbo:Country. <http://dbpedia.org/resource/Mitanni> dbp:name "Mitanni".
+<http://dbpedia.org/resource/Principality_of_Outer_Baldonia> a dbo:Country. <http://dbpedia.org/resource/Principality_of_Outer_Baldonia> dbp:name "Principality of Outer Baldonia".
+<http://dbpedia.org/resource/Diego_Garcia_and_Chagos_Islands_Council> a dbo:Country. <http://dbpedia.org/resource/Diego_Garcia_and_Chagos_Islands_Council> dbp:name "Diego Garcia and Chagos Islands Council".
+<http://dbpedia.org/resource/Zaqistan> a dbo:Country. <http://dbpedia.org/resource/Zaqistan> dbp:name "Zaqistan".
+<http://dbpedia.org/resource/Elgaland-Vargaland> a dbo:Country. <http://dbpedia.org/resource/Elgaland-Vargaland> dbp:name "Elgaland-Vargaland".
+<http://dbpedia.org/resource/Princedom_of_Ongal> a dbo:Country. <http://dbpedia.org/resource/Princedom_of_Ongal> dbp:name "Princedom of Ongal".
+<http://dbpedia.org/resource/World_Hindi_Secretariat> a dbo:Country. <http://dbpedia.org/resource/World_Hindi_Secretariat> dbp:name "World Hindi Secretariat".
+<http://dbpedia.org/resource/Asgardia_(nation)> a dbo:Country. <http://dbpedia.org/resource/Asgardia_(nation)> dbp:name "Asgardia (nation)".
+<http://dbpedia.org/resource/Belgian_colonial_empire> a dbo:Country. <http://dbpedia.org/resource/Belgian_colonial_empire> dbp:name "Belgian colonial empire".
+<http://dbpedia.org/resource/Parliamentary_Assembly_of_the_Organization_for_Security_and_Co-operation_in_Europe> a dbo:Country. <http://dbpedia.org/resource/Parliamentary_Assembly_of_the_Organization_for_Security_and_Co-operation_in_Europe> dbp:name "Parliamentary Assembly of the Organization for Security and Co-operation in Europe".
+<http://dbpedia.org/resource/Reichskommissariat_Kaukasus> a dbo:Country. <http://dbpedia.org/resource/Reichskommissariat_Kaukasus> dbp:name "Reichskommissariat Kaukasus".
+<http://dbpedia.org/resource/Reichskommissariat_Moskowien> a dbo:Country. <http://dbpedia.org/resource/Reichskommissariat_Moskowien> dbp:name "Reichskommissariat Moskowien".
+<http://dbpedia.org/resource/Pacific_Union> a dbo:Country. <http://dbpedia.org/resource/Pacific_Union> dbp:name "Pacific Union".
+<http://dbpedia.org/resource/Dukedom_of_Alcalá_de_los_Gazules> a dbo:Country. <http://dbpedia.org/resource/Dukedom_of_Alcalá_de_los_Gazules> dbp:name "Dukedom of Alcalá de los Gazules".
+<http://dbpedia.org/resource/British_Arctic_Territories> a dbo:Country. <http://dbpedia.org/resource/British_Arctic_Territories> dbp:name "British Arctic Territories".
+<http://dbpedia.org/resource/Danava_dynasty> a dbo:Country. <http://dbpedia.org/resource/Danava_dynasty> dbp:name "Danava dynasty".
+<http://dbpedia.org/resource/Gangaridai> a dbo:Country. <http://dbpedia.org/resource/Gangaridai> dbp:name "Gangaridai".
+<http://dbpedia.org/resource/Naraka_dynasty> a dbo:Country. <http://dbpedia.org/resource/Naraka_dynasty> dbp:name "Naraka dynasty".
+<http://dbpedia.org/resource/Videha> a dbo:Country. <http://dbpedia.org/resource/Videha> dbp:name "Videha".
+<http://dbpedia.org/resource/SaarLorLux> a dbo:Country. <http://dbpedia.org/resource/SaarLorLux> dbp:name "SaarLorLux".
+<http://dbpedia.org/resource/BCIM_Forum> a dbo:Country. <http://dbpedia.org/resource/BCIM_Forum> dbp:name "BCIM Forum".
+<http://dbpedia.org/resource/Marquisate_of_El_Carpio> a dbo:Country. <http://dbpedia.org/resource/Marquisate_of_El_Carpio> dbp:name "Marquisate of El Carpio".
+<http://dbpedia.org/resource/Permanent_Observer_Mission_of_the_Organization_of_Islamic_Cooperation_to_the_European_Union> a dbo:Country. <http://dbpedia.org/resource/Permanent_Observer_Mission_of_the_Organization_of_Islamic_Cooperation_to_the_European_Union> dbp:name "Permanent Observer Mission of the Organization of Islamic Cooperation to the European Union".
+<http://dbpedia.org/resource/BBIN> a dbo:Country. <http://dbpedia.org/resource/BBIN> dbp:name "BBIN".
+<http://dbpedia.org/resource/Pan_African_Confederation_of_Youth_Associations> a dbo:Country. <http://dbpedia.org/resource/Pan_African_Confederation_of_Youth_Associations> dbp:name "Pan African Confederation of Youth Associations".
+<http://dbpedia.org/resource/Faroe_Islands> a dbo:Country. <http://dbpedia.org/resource/Faroe_Islands> dbp:name "Faroe Islands".
+<http://dbpedia.org/resource/Bouvet_Island> a dbo:Country. <http://dbpedia.org/resource/Bouvet_Island> dbp:name "Bouvet Island".
+<http://dbpedia.org/resource/International_Cable_Protection_Committee> a dbo:Country. <http://dbpedia.org/resource/International_Cable_Protection_Committee> dbp:name "International Cable Protection Committee".
+<http://dbpedia.org/resource/Area_code_246> a dbo:Country. <http://dbpedia.org/resource/Area_code_246> dbp:name "Area code 246".
+<http://dbpedia.org/resource/Common_Market_for_Eastern_and_Southern_Africa> a dbo:Country. <http://dbpedia.org/resource/Common_Market_for_Eastern_and_Southern_Africa> dbp:name "Common Market for Eastern and Southern Africa".
+<http://dbpedia.org/resource/Commonwealth_of_Independent_States_Free_Trade_Area> a dbo:Country. <http://dbpedia.org/resource/Commonwealth_of_Independent_States_Free_Trade_Area> dbp:name "Commonwealth of Independent States Free Trade Area".
+<http://dbpedia.org/resource/Eurasian_Economic_Union> a dbo:Country. <http://dbpedia.org/resource/Eurasian_Economic_Union> dbp:name "Eurasian Economic Union".
+<http://dbpedia.org/resource/Kingdom_of_Dagbon> a dbo:Country. <http://dbpedia.org/resource/Kingdom_of_Dagbon> dbp:name "Kingdom of Dagbon".
+<http://dbpedia.org/resource/Middle_Saxons> a dbo:Country. <http://dbpedia.org/resource/Middle_Saxons> dbp:name "Middle Saxons".
+<http://dbpedia.org/resource/Contadora_support_group> a dbo:Country. <http://dbpedia.org/resource/Contadora_support_group> dbp:name "Contadora support group".
+<http://dbpedia.org/resource/Rebel_Zapatista_Autonomous_Municipalities> a dbo:Country. <http://dbpedia.org/resource/Rebel_Zapatista_Autonomous_Municipalities> dbp:name "Rebel Zapatista Autonomous Municipalities".
+<http://dbpedia.org/resource/Donbass_(1917-1918)> a dbo:Country. <http://dbpedia.org/resource/Donbass_(1917-1918)> dbp:name "Donbass (1917-1918)".
+<http://dbpedia.org/resource/Third_Hellenic_Republic> a dbo:Country. <http://dbpedia.org/resource/Third_Hellenic_Republic> dbp:name "Third Hellenic Republic".
+<http://dbpedia.org/resource/Austenasia> a dbo:Country. <http://dbpedia.org/resource/Austenasia> dbp:name "Austenasia".
+<http://dbpedia.org/resource/French_overseas_departments_and_territories> a dbo:Country. <http://dbpedia.org/resource/French_overseas_departments_and_territories> dbp:name "French overseas departments and territories".
+<http://dbpedia.org/resource/Imperial_Throne_(micronation)> a dbo:Country. <http://dbpedia.org/resource/Imperial_Throne_(micronation)> dbp:name "Imperial Throne (micronation)".
+<http://dbpedia.org/resource/Mohegan_Indian_Tribe> a dbo:Country. <http://dbpedia.org/resource/Mohegan_Indian_Tribe> dbp:name "Mohegan Indian Tribe".
+<http://dbpedia.org/resource/The_Khovansky_Foundation> a dbo:Country. <http://dbpedia.org/resource/The_Khovansky_Foundation> dbp:name "The Khovansky Foundation".
+<http://dbpedia.org/resource/Khatumo_State> a dbo:Country. <http://dbpedia.org/resource/Khatumo_State> dbp:name "Khatumo State".
+<http://dbpedia.org/resource/Awdalland> a dbo:Country. <http://dbpedia.org/resource/Awdalland> dbp:name "Awdalland".
+<http://dbpedia.org/resource/Bunyoro> a dbo:Country. <http://dbpedia.org/resource/Bunyoro> dbp:name "Bunyoro".
+<http://dbpedia.org/resource/Independent_State_of_Rainbow_Creek> a dbo:Country. <http://dbpedia.org/resource/Independent_State_of_Rainbow_Creek> dbp:name "Independent State of Rainbow Creek".
+<http://dbpedia.org/resource/Sovereign_State_of_Aeterna_Lucina> a dbo:Country. <http://dbpedia.org/resource/Sovereign_State_of_Aeterna_Lucina> dbp:name "Sovereign State of Aeterna Lucina".
+<http://dbpedia.org/resource/Sint_Maarten> a dbo:Country. <http://dbpedia.org/resource/Sint_Maarten> dbp:name "Sint Maarten".
+<http://dbpedia.org/resource/Portuguese_Empire> a dbo:Country. <http://dbpedia.org/resource/Portuguese_Empire> dbp:name "Portuguese Empire".
+<http://dbpedia.org/resource/Ashanti_Empire> a dbo:Country. <http://dbpedia.org/resource/Ashanti_Empire> dbp:name "Ashanti Empire".
+<http://dbpedia.org/resource/International_Energy_Forum> a dbo:Country. <http://dbpedia.org/resource/International_Energy_Forum> dbp:name "International Energy Forum".
+<http://dbpedia.org/resource/North_Borneo_Federation> a dbo:Country. <http://dbpedia.org/resource/North_Borneo_Federation> dbp:name "North Borneo Federation".
+<http://dbpedia.org/resource/Saint_Barthélemy> a dbo:Country. <http://dbpedia.org/resource/Saint_Barthélemy> dbp:name "Saint Barthélemy".
+<http://dbpedia.org/resource/Federal_Government_of_Somalia> a dbo:Country. <http://dbpedia.org/resource/Federal_Government_of_Somalia> dbp:name "Federal Government of Somalia".
+<http://dbpedia.org/resource/Abyei> a dbo:Country. <http://dbpedia.org/resource/Abyei> dbp:name "Abyei".
+<http://dbpedia.org/resource/Avatele> a dbo:Country. <http://dbpedia.org/resource/Avatele> dbp:name "Avatele".
+<http://dbpedia.org/resource/Akhzivland> a dbo:Country. <http://dbpedia.org/resource/Akhzivland> dbp:name "Akhzivland".
+<http://dbpedia.org/resource/Dutch_Empire> a dbo:Country. <http://dbpedia.org/resource/Dutch_Empire> dbp:name "Dutch Empire".
+<http://dbpedia.org/resource/Barotseland> a dbo:Country. <http://dbpedia.org/resource/Barotseland> dbp:name "Barotseland".
+<http://dbpedia.org/resource/Kolathunadu> a dbo:Country. <http://dbpedia.org/resource/Kolathunadu> dbp:name "Kolathunadu".
+<http://dbpedia.org/resource/Panchala> a dbo:Country. <http://dbpedia.org/resource/Panchala> dbp:name "Panchala".
+<http://dbpedia.org/resource/Royal_Lao_Government_in_Exile> a dbo:Country. <http://dbpedia.org/resource/Royal_Lao_Government_in_Exile> dbp:name "Royal Lao Government in Exile".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Cyprus)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Cyprus)> dbp:name "Euro gold and silver commemorative coins (Cyprus)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Finland)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Finland)> dbp:name "Euro gold and silver commemorative coins (Finland)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Germany)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Germany)> dbp:name "Euro gold and silver commemorative coins (Germany)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Malta)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Malta)> dbp:name "Euro gold and silver commemorative coins (Malta)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovenia)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovenia)> dbp:name "Euro gold and silver commemorative coins (Slovenia)".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Spain)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Spain)> dbp:name "Euro gold and silver commemorative coins (Spain)".
+<http://dbpedia.org/resource/Islands_of_Refreshment> a dbo:Country. <http://dbpedia.org/resource/Islands_of_Refreshment> dbp:name "Islands of Refreshment".
+<http://dbpedia.org/resource/Torres_Strait_Regional_Authority> a dbo:Country. <http://dbpedia.org/resource/Torres_Strait_Regional_Authority> dbp:name "Torres Strait Regional Authority".
+<http://dbpedia.org/resource/Commemorative_coins_of_Bulgaria> a dbo:Country. <http://dbpedia.org/resource/Commemorative_coins_of_Bulgaria> dbp:name "Commemorative coins of Bulgaria".
+<http://dbpedia.org/resource/Energy_Community> a dbo:Country. <http://dbpedia.org/resource/Energy_Community> dbp:name "Energy Community".
+<http://dbpedia.org/resource/Arab_Monetary_Fund> a dbo:Country. <http://dbpedia.org/resource/Arab_Monetary_Fund> dbp:name "Arab Monetary Fund".
+<http://dbpedia.org/resource/Kwantlen_First_Nation> a dbo:Country. <http://dbpedia.org/resource/Kwantlen_First_Nation> dbp:name "Kwantlen First Nation".
+<http://dbpedia.org/resource/ASEAN_Summit> a dbo:Country. <http://dbpedia.org/resource/ASEAN_Summit> dbp:name "ASEAN Summit".
+<http://dbpedia.org/resource/Republic_of_Rose_Island> a dbo:Country. <http://dbpedia.org/resource/Republic_of_Rose_Island> dbp:name "Republic of Rose Island".
+<http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic> a dbo:Country. <http://dbpedia.org/resource/Sahrawi_Arab_Democratic_Republic> dbp:name "Sahrawi Arab Democratic Republic".
+<http://dbpedia.org/resource/Single_Euro_Payments_Area> a dbo:Country. <http://dbpedia.org/resource/Single_Euro_Payments_Area> dbp:name "Single Euro Payments Area".
+<http://dbpedia.org/resource/Autonomous_Republic_of_Crimea> a dbo:Country. <http://dbpedia.org/resource/Autonomous_Republic_of_Crimea> dbp:name "Autonomous Republic of Crimea".
+<http://dbpedia.org/resource/Government_of_Puntland> a dbo:Country. <http://dbpedia.org/resource/Government_of_Puntland> dbp:name "Government of Puntland".
+<http://dbpedia.org/resource/Novorossiya_(confederation)> a dbo:Country. <http://dbpedia.org/resource/Novorossiya_(confederation)> dbp:name "Novorossiya (confederation)".
+<http://dbpedia.org/resource/Subanon_people> a dbo:Country. <http://dbpedia.org/resource/Subanon_people> dbp:name "Subanon people".
+<http://dbpedia.org/resource/Territories_of_the_United_States> a dbo:Country. <http://dbpedia.org/resource/Territories_of_the_United_States> dbp:name "Territories of the United States".
+<http://dbpedia.org/resource/Danish_Realm> a dbo:Country. <http://dbpedia.org/resource/Danish_Realm> dbp:name "Danish Realm".
+<http://dbpedia.org/resource/Dependencies_of_Norway> a dbo:Country. <http://dbpedia.org/resource/Dependencies_of_Norway> dbp:name "Dependencies of Norway".
+<http://dbpedia.org/resource/Talossa> a dbo:Country. <http://dbpedia.org/resource/Talossa> dbp:name "Talossa".
+<http://dbpedia.org/resource/Commemorative_coins_of_Poland> a dbo:Country. <http://dbpedia.org/resource/Commemorative_coins_of_Poland> dbp:name "Commemorative coins of Poland".
+<http://dbpedia.org/resource/CEN_1789> a dbo:Country. <http://dbpedia.org/resource/CEN_1789> dbp:name "CEN 1789".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovakia)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Slovakia)> dbp:name "Euro gold and silver commemorative coins (Slovakia)".
+<http://dbpedia.org/resource/Nation.1> a dbo:Country. <http://dbpedia.org/resource/Nation.1> dbp:name "Nation.1".
+<http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Estonia)> a dbo:Country. <http://dbpedia.org/resource/Euro_gold_and_silver_commemorative_coins_(Estonia)> dbp:name "Euro gold and silver commemorative coins (Estonia)".
+<http://dbpedia.org/resource/Reichskommissariat_Turkestan> a dbo:Country. <http://dbpedia.org/resource/Reichskommissariat_Turkestan> dbp:name "Reichskommissariat Turkestan".
+<http://dbpedia.org/resource/Taiwan_Health_and_Welfare_Ministry> a dbo:Country. <http://dbpedia.org/resource/Taiwan_Health_and_Welfare_Ministry> dbp:name "Taiwan Health and Welfare Ministry".
+<http://dbpedia.org/resource/Wales> a dbo:Country. <http://dbpedia.org/resource/Wales> dbp:name "Wales".
+<http://dbpedia.org/resource/England> a dbo:Country. <http://dbpedia.org/resource/England> dbp:name "England".
+<http://dbpedia.org/resource/Scotland> a dbo:Country. <http://dbpedia.org/resource/Scotland> dbp:name "Scotland".
+
