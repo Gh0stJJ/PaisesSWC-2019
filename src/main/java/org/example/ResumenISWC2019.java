@@ -120,23 +120,28 @@ public class ResumenISWC2019 {
         return data;
     }
 
-    public void generateHTML(Map<String, Set<String>> data, String outputFile){
+    public void generateHTML(Map<String, Set<String>> data, String outputFile) {
         StringBuilder html = new StringBuilder();
         html.append("<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n");
-        html.append("<meta charset=\"UTF-8\">\n<title>Publicaciones ISWC 2019</title>\n");
+        html.append("<meta charset=\"UTF-8\">\n");
+        html.append("<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n");
+        html.append("<title>Publicaciones ISWC 2019</title>\n");
+        // Cortecia de Tailwind CSS para estilos
         html.append("<link href=\"https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css\" rel=\"stylesheet\">\n");
-        html.append("</head>\n<body>\n<div class=\"container mx-auto px-4 py-8\">\n");
-        html.append("<h1 class=\"text-3xl font-bold mb-6\">ISWC 2019: Publicaciones por país para los tópicos Research, In-Use y Resource</h1>\n");
-
-        for (String country: data.keySet()){
-            html.append("<h2 class\"text-2xl font-semibold mt-6 mb-2\">").append(country).append("</h2>\n");
-            html.append("<ul class=\"list-disc list-inside\">\n");
-            for (String entry: data.get(country)){
-                html.append(" <li>").append(entry).append("</li>\n");
-
+        html.append("</head>\n<body class=\"bg-gray-100 text-gray-900\">\n");
+        html.append("<header class=\"bg-blue-600 py-6 mb-8\">\n");
+        html.append("  <h1 class=\"text-center text-white text-4xl font-extrabold\">Publicaciones ISWC 2019</h1>\n");
+        html.append("</header>\n");
+        html.append("<div class=\"container mx-auto px-4\">\n");
+        html.append("  <p class=\"text-lg mb-6\">ISWC es el principal foro internacional para la comunidad de datos enlazados y web semántica. Esta página enumera las publicaciones de los tópicos Research, In-Use y Resource, agrupadas por país.</p>\n");
+        for (String country : data.keySet()) {
+            html.append("  <section class=\"bg-white rounded-lg shadow-md p-6 mb-6\">\n");
+            html.append("    <h2 class=\"text-2xl font-semibold text-blue-700 mb-4\">" + country + "</h2>\n");
+            html.append("    <ul class=\"list-disc list-inside space-y-2\">\n");
+            for (String entry : data.get(country)) {
+                html.append("      <li class=\"hover:underline hover:text-blue-600 transition-colors\">" + entry + "</li>\n");
             }
-            html.append("</ul>\n");
-
+            html.append("    </ul>\n  </section>\n");
         }
         html.append("</div>\n</body>\n</html>");
 
@@ -146,8 +151,6 @@ public class ResumenISWC2019 {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
     }
 
     public static void main(String[] args) {
